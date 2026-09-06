@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^request\.php$ req.php [L,QSA]
