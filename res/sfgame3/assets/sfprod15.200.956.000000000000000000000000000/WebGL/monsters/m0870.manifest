@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3509083404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4313fd8da18c086d990733b3996f4912
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Pets/Monster/monster870.png
+Dependencies: []

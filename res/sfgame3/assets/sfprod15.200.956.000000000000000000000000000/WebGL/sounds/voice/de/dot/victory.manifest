@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3113481214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 265f671baceee5a40a18d5fba6cbec2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/victory/victory02.wav
+- Assets/Sounds/Voice/de/Dot/victory/victory03.wav
+- Assets/Sounds/Voice/de/Dot/victory/victory04.wav
+- Assets/Sounds/Voice/de/Dot/victory/victory01.wav
+Dependencies: []

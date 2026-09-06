@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2252272015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ec2e7427427abe9a1d61d248a89dcbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/boss22/boss2201.wav
+Dependencies: []

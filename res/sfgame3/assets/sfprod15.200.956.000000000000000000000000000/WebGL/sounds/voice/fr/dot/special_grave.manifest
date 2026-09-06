@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1195264941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9742711a8dacaf6ad140b765ba3bf00b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_grave/special_grave01.wav
+Dependencies: []

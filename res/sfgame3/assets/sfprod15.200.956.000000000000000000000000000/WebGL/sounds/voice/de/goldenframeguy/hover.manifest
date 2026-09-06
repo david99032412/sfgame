@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 4230317224
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfcaa625a5dfa9593d58934ee4f77bde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/generic04.wav
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/generic01.wav
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/generic02.wav
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/generic03.wav
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/greetings_female.wav
+- Assets/Sounds/Voice/de/GoldenFrameGuy/Hover/greetings_male.wav
+Dependencies: []

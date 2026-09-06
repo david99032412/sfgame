@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1114484484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0019ad439fcd8b0874f70a65cfa8d9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/GoldenFrameGuy/Steps/step3.wav
+- Assets/Sounds/Voice/en/GoldenFrameGuy/Steps/step1.wav
+- Assets/Sounds/Voice/en/GoldenFrameGuy/Steps/step2.wav
+Dependencies: []

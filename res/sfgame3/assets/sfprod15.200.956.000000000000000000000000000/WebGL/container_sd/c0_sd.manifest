@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2045012480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c61f02b5e77221ea87937e7f743a85e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47aeffdf0d188214521a75f7be1e53c0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e92e814f1cbcd540a50f5f5bfa8a230, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/containers_sd/container0_sd.asset
+Dependencies: []

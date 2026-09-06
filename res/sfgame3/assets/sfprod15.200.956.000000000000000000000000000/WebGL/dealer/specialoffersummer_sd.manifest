@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2617397860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc698af04dc2ebe0b086d88da10e2374
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 419bd8d26c3a8c181a621c2e6bfaf015
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b47013e5c7bdeac4eb0c7c6bf631b79d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Dealer/specialoffer/summer/specialoffersummer_sd.asset
+Dependencies: []

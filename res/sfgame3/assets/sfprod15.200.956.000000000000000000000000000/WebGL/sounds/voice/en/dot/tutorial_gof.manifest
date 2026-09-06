@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3336598841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e748f1a443ca2280ce0786cc7250509d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_gof/tutorial_gof01.wav
+Dependencies: []

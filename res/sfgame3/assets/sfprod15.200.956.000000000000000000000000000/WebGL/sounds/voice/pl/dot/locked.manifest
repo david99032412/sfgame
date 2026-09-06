@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 503009939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 592043f0aee9c4fef2c0bd2043a5e175
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/locked/locked03.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked09.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked05.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked11.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked04.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked01.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked02.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked07.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked13.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked08.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked10.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked12.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked06.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked15.wav
+- Assets/Sounds/Voice/pl/Dot/locked/locked14.wav
+Dependencies: []

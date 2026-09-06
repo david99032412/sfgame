@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4276809563
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 546cd50b644e3104bb4f61e3f7c6ae89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/buff/receive_curse.wav
+- Assets/Sounds/dot/buff/receive_blessing.wav
+Dependencies: []

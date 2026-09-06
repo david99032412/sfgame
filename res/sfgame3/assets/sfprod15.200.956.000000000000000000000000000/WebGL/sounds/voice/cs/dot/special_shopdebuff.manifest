@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3578391595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97fcf375126b49dd0ec1fb8aa97ac30c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_shopdebuff/special_shopdebuff01.wav
+Dependencies: []

@@ -1,0 +1,5 @@
+=== NORTHSIDERP SZERVER DIAGNOSZTIKA ===
+
+[OK] Minden Unity WebGL Build fájl megtalálható.
+
+[HÁLÓZAT OK] A backend válaszol: &Error:wrong request...

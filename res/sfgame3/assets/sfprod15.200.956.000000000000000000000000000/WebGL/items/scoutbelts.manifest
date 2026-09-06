@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1927414851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1929f5900548565c732aa283089d766a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfbd5677ed1d2b41e771622c2f2a9575
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fbd5f3523b50704eb7eb75108d82fbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.Model
+  ClassName: PlayaGames.ShakesAndFidget.PlayerModel.ItemIdentifier
+Assets:
+- Assets/ScriptableObjects/Sprites/Items/scoutbeltsMapping.asset
+- Assets/Art/Atlases/Items/ScoutBelts.spriteatlas
+Dependencies: []

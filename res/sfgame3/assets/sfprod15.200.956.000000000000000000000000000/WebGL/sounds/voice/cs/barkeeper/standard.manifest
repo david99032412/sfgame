@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 443767503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2aed0ab2ea78961507b084da8736b1a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/evening01.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/morning02.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/generic01.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/morning01.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/too_healthy.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/busy.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/generic02.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/free.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/can_buy.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/cannot_afford_beer.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/night01.wav
+- Assets/Sounds/Voice/cs/Barkeeper/Standard/evening02.wav
+Dependencies: []

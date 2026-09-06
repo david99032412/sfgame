@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 489826238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3516e7ab50b3b991c16310d9d2f94745
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 913d7f368345eedb51712ecaec9c48b4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d5856cf0b7ee8b46a0f737696062f00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/UI/LandscapeFrameSprites.asset
+Dependencies: []

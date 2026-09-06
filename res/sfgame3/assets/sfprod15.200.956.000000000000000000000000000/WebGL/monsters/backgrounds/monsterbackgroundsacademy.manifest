@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 353188098
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a34036f998a44659562fcb4a373893c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/MonsterBackgrounds/MonsterBackgroundsAcademy.spriteatlas
+Dependencies: []

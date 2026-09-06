@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4082085214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0978897f26b10308b6ce86fdc672799
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/MushroomDealer/Background/Anniversary/bg_anniversary_day.png
+Dependencies: []

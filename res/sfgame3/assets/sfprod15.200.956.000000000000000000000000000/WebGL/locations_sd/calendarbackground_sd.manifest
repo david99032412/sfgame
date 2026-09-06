@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1157105398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e7fe63fc9762f23a91549569e4c53c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Calendar/bg_calendar_sd.jpg
+Dependencies: []

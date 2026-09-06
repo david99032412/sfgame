@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3269488441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe6a19a826e7b031f208cc8d207872ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/gt/greed/monster6072.png
+Dependencies: []

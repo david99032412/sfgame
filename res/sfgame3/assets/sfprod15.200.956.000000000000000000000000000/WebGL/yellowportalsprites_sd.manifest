@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1932964575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebdc688a0df3dd9b1bb0aa88f54edd9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88564c75ff42dc232b882d590473b161
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ae10ebb7da0e9468b9734432381bcf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/YellowPortalSprites_sd.asset
+Dependencies: []

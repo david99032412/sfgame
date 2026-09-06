@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1732318067
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ef4bee00404d3bbfc9bbc4416832b31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52369405251ca1977fc6e02ff90b2b48
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2af840716126927478767aaff833d2cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/AlbumBookSprites_sd.asset
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1620550012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c86513e61e3f8ff4bb4bcabdd369f897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/Hydra/monster1302.png
+Dependencies: []

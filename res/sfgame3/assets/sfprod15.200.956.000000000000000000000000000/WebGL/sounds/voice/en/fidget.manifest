@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1340007795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 076407d175a7585d0ec8c93f31537f1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Fidget/generic06.wav
+- Assets/Sounds/Voice/en/Fidget/generic07.wav
+- Assets/Sounds/Voice/en/Fidget/generic01.wav
+- Assets/Sounds/Voice/en/Fidget/night01.wav
+- Assets/Sounds/Voice/en/Fidget/generic08.wav
+- Assets/Sounds/Voice/en/Fidget/evening01.wav
+- Assets/Sounds/Voice/en/Fidget/generic02.wav
+- Assets/Sounds/Voice/en/Fidget/generic05.wav
+- Assets/Sounds/Voice/en/Fidget/morning01.wav
+- Assets/Sounds/Voice/en/Fidget/night03.wav
+- Assets/Sounds/Voice/en/Fidget/generic04.wav
+- Assets/Sounds/Voice/en/Fidget/day01.wav
+- Assets/Sounds/Voice/en/Fidget/night02.wav
+- Assets/Sounds/Voice/en/Fidget/generic03.wav
+Dependencies: []

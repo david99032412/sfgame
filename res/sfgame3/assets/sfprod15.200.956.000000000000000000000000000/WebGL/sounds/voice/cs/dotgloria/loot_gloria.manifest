@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 45875683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2efcaefb3c0d4056d9fef587f5711ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/DotGloria/loot_gloria/loot_gloria01.wav
+- Assets/Sounds/Voice/cs/DotGloria/loot_gloria/loot_gloria04.wav
+- Assets/Sounds/Voice/cs/DotGloria/loot_gloria/loot_gloria02.wav
+- Assets/Sounds/Voice/cs/DotGloria/loot_gloria/loot_gloria05.wav
+- Assets/Sounds/Voice/cs/DotGloria/loot_gloria/loot_gloria03.wav
+Dependencies: []

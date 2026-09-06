@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2894383203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c2e79daa385b7ede40b3f8402a3e3b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 035b69cf923ff4aa8a009589d39e0502
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0df31fb2ab3526846a138645bfe1dadb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TavernTabSprites.asset
+Dependencies: []

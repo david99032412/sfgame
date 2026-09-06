@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3277532997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e9dbad4b549643d7ae3d35fe66d434b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Misc/loot_metal.wav
+- Assets/Sounds/Misc/berserker_rage.wav
+- Assets/Sounds/Misc/loot_hourglass.wav
+- Assets/Sounds/Misc/flip_page.wav
+- Assets/Sounds/Misc/socket.mp3
+- Assets/Sounds/Misc/drink.mp3
+- Assets/Sounds/Misc/drop_cauldron.wav
+- Assets/Sounds/Misc/town_crystals.wav
+- Assets/Sounds/Misc/sale.mp3
+- Assets/Sounds/Misc/jingle.wav
+- Assets/Sounds/Misc/prestart_tick.wav
+- Assets/Sounds/Misc/dungeon_gate.wav
+- Assets/Sounds/Misc/flip_coin.wav
+- Assets/Sounds/Misc/backpack.wav
+Dependencies: []

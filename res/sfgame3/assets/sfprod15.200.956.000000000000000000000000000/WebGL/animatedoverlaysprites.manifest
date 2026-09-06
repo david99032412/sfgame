@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3466373241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f96fa3941de3ef6a09cc331da711823
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 73e8ec5e53deb97e10b997e6e12b03ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60041c30f0d61b746944c0ba64acb7c4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/AnimatedOverlaySprites.asset
+Dependencies: []

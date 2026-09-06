@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 798904145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60d03e7f554981638415ebfd5bb91fa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage01.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage05.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage07.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage08.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage04.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage03.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage06.wav
+- Assets/Sounds/Voice/cs/Dot/newstage/newstage02.wav
+Dependencies: []

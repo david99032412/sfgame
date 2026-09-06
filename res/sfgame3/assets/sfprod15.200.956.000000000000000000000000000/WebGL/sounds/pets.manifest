@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 849592898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 774a790ca1fdd5e3def52bf4a579946c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Pets/feed_medium.wav
+- Assets/Sounds/Pets/feed_small.wav
+- Assets/Sounds/Pets/open_egg.wav
+- Assets/Sounds/Pets/feed_big.wav
+Dependencies: []

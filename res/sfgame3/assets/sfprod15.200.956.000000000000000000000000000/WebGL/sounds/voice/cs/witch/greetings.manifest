@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4153730367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13d455c8f1540f3cf52ee8596c56789e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic03.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic07.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic04.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic05.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/evening01.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/morning01.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic06.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic01.wav
+- Assets/Sounds/Voice/cs/Witch/Greetings/generic02.wav
+Dependencies: []

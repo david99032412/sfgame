@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2399565476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8402aa7ce13440deca8655aa4875ba9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/boss/wizard/boss_intro_5045.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5045.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5236.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5072.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5044.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5238.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5072.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5239.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5073.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5236.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5072.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5238.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5044.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5236.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5045.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5044.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5237.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5237.wav
+- Assets/Sounds/dot/boss/wizard/boss_death_5239.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5239.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5238.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5237.wav
+- Assets/Sounds/dot/boss/wizard/boss_hit_5073.wav
+- Assets/Sounds/dot/boss/wizard/boss_intro_5073.wav
+Dependencies: []

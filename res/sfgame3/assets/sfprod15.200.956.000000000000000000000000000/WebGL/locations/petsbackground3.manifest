@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 431928575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9bcfda259f654713a0b68c66e217669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds/Pets/location_pets_fire.png
+Dependencies: []

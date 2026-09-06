@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2559292895
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12744ecc567333f5f5eaa3f884c1b59f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/tutorial_door_trap/tutorial_door_trap01.wav
+Dependencies: []

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1398195848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ad5e255d7735823aedb36562ee1fe75c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/MonsterBackgrounds/MonsterBackgroundsDragons.spriteatlas
+Dependencies: []

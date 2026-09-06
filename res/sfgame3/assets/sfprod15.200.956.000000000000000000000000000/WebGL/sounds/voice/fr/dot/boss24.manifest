@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1548509936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e398356c74c8939f6e95df2200d3a895
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/boss24/boss2401.wav
+Dependencies: []

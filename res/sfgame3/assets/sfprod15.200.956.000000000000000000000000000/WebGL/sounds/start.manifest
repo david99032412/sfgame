@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2130322597
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1ae563a1e0f78ce2de85f3efd1244619
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Start/click.mp3
+- Assets/Sounds/Start/chat.mp3
+- Assets/Sounds/Start/moveitem.mp3
+- Assets/Sounds/Start/wheel_step.mp3
+Dependencies: []

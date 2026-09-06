@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4927842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9bba3ed680129713a68cb3c6b2f621f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/21-Dragon/monster1134.png
+Dependencies: []

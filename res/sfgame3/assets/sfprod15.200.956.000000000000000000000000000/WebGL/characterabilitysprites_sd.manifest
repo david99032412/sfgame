@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1656528206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e549c83c22f7b8f563640f04fd01faa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0120c197ddc037a577dab3169005e7af
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 513b6c30356ddea488825a3dd3ca54d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Character/CharacterAbilitySprites_sd.asset
+Dependencies: []

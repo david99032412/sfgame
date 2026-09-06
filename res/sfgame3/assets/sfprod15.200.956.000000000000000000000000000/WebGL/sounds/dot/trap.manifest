@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1936584159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3eeeeae087037897ad82870f3bb2baef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/trap/trap_04.wav
+- Assets/Sounds/dot/trap/trap_09.wav
+- Assets/Sounds/dot/trap/trap_07.wav
+- Assets/Sounds/dot/trap/trap_06.wav
+- Assets/Sounds/dot/trap/trap_05.wav
+- Assets/Sounds/dot/trap/trap_03.wav
+- Assets/Sounds/dot/trap/trap_02.wav
+- Assets/Sounds/dot/trap/trap_08.wav
+- Assets/Sounds/dot/trap/blast.wav
+Dependencies: []

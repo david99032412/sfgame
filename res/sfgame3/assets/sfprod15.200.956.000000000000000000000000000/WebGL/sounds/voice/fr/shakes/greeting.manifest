@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1937700491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60c52a87aea33ca5216ca2d3af0a413e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Shakes/Greeting/day01.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic06.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic08.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic05.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/night02.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic07.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/night03.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic01.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic03.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/morning01.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/night01.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic02.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/evening01.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic09.wav
+- Assets/Sounds/Voice/fr/Shakes/Greeting/generic04.wav
+Dependencies: []

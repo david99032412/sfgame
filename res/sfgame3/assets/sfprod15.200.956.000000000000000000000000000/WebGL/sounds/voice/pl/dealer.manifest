@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1068558040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bca860d2df26e47c0cf6acbd78bd8122
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dealer/generic01.wav
+- Assets/Sounds/Voice/pl/Dealer/generic04.wav
+- Assets/Sounds/Voice/pl/Dealer/generic08.wav
+- Assets/Sounds/Voice/pl/Dealer/generic02.wav
+- Assets/Sounds/Voice/pl/Dealer/generic05.wav
+- Assets/Sounds/Voice/pl/Dealer/generic07.wav
+- Assets/Sounds/Voice/pl/Dealer/generic03.wav
+- Assets/Sounds/Voice/pl/Dealer/generic06.wav
+Dependencies: []

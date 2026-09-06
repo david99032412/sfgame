@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3934034544
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02b13432ba8c676c04eaa693638db689
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/map/map_count.wav
+- Assets/Sounds/dot/map/map_unlocknewarea.wav
+- Assets/Sounds/dot/map/map_chain_fade_out.wav
+- Assets/Sounds/dot/map/map_chain.wav
+- Assets/Sounds/dot/map/legendary_swoosh.wav
+- Assets/Sounds/dot/map/map_impact.wav
+- Assets/Sounds/dot/map/map_move.wav
+- Assets/Sounds/dot/map/legendary_open.wav
+- Assets/Sounds/dot/map/map_progressbar.ogg
+- Assets/Sounds/dot/map/map_open.wav
+Dependencies: []

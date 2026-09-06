@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4156641442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 147a15fde9778a2afb587fe4b66e8a94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_sewer/special_sewer01.wav
+Dependencies: []

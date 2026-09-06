@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1601776934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ed430b5e3d1f1d77d565a5e35bd6b60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 065a1fdbe083a1fd3ff8e341e637c447
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3af99f03f3e23e849b86d7c8f8bcc9b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/WitchSprites.asset
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3952066258
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9141420d72d70f7d487a71e1a51a1a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_auction/special_auction01.wav
+Dependencies: []

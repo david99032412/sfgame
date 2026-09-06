@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2343092250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d7c11d89fa5509fb70aff986a4e4131
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Barkeeper/barkeeper_text_can_buy_event/barkeeper_text_can_buy_event01.wav
+- Assets/Sounds/Voice/pl/Barkeeper/barkeeper_text_can_buy_event/barkeeper_text_can_buy_event03.wav
+- Assets/Sounds/Voice/pl/Barkeeper/barkeeper_text_can_buy_event/barkeeper_text_can_buy_event02.wav
+Dependencies: []

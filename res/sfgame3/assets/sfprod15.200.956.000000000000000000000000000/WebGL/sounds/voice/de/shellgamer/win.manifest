@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2933780068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d86cefad2e8aa9ca9157f2c8dcb1133
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/ShellGamer/Win/win02.wav
+- Assets/Sounds/Voice/de/ShellGamer/Win/win01.wav
+- Assets/Sounds/Voice/de/ShellGamer/Win/win03.wav
+- Assets/Sounds/Voice/de/ShellGamer/Win/win04.wav
+Dependencies: []

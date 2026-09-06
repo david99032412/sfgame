@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3820862953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68ca87155687e666cc7adf7e5130916b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/trap/trap02.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap15.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap01.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap06.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap14.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap05.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap13.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap08.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap16.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap04.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap07.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap09.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap11.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap12.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap10.wav
+- Assets/Sounds/Voice/cs/Dot/trap/trap03.wav
+Dependencies: []

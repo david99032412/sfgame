@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2472612742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13b597b1354f7a4ecbe88bf10f1cc598
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2a51efc3ae9e89c720f8a6a8923a985
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c79bc8e9fbf7f2b4e8a68996d2869d6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TavernEventOverlays/speed01.asset
+Dependencies: []

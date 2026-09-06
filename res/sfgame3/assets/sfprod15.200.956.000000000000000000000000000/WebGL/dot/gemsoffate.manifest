@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3282893080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a85df843a016008ab95a015b7f873911
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e39fedacd59a35f142fc0dcb5f3d138a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d13745b03be831e42982ac8cfd7229cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Dungeons/DOT/Common/gemsoffate/gemsoffate-0.png
+- Assets/ScriptableObjects/Sprites/dot/common/gemsoffate/gemsoffate.asset
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1440734413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 066e90f545250b17953d4707d2a0a7eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/dot/03-Hp/monster56.png
+Dependencies: []

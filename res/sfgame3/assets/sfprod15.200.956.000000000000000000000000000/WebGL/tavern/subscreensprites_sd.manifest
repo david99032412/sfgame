@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 737192045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa5779627483cf14372aae4b4bded974
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ccf7fdb61fcf194d337f6b9621088fd1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aa5b0cfc5eb6614b89088a591741d14, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TavernSubScreenSprites_sd.asset
+Dependencies: []

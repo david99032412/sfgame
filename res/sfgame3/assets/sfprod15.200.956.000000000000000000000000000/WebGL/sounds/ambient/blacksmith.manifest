@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2322103609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a46f05c6eeb6ed489c5556727998745c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/blacksmith.wav
+Dependencies: []

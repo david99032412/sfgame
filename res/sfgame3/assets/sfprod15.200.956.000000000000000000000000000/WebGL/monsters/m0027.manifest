@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3424840065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b9afd20d3d6fd4ea07154d633587429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/_General/monster27.png
+Dependencies: []

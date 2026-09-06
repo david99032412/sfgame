@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1250849817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50dde903087810e7da8b242b683a1c42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c2f1a558a04ff8704636c1179ab400fa
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: c449130e5ed88e6489073518ee618168, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.GreetingCount
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.VoiceCount
+Assets:
+- Assets/ScriptableObjects/VoiceCounts.asset
+Dependencies: []

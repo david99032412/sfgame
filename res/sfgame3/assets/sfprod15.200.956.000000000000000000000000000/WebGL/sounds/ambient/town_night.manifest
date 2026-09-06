@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3518204268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 904b3d4a41f5f0aa88b9cc33854a3e4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/town_night.wav
+Dependencies: []

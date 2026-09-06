@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 840638984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e08639a395ccafb35160eecfa894cca7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d2994e78552735a5e83a6a9d0c4a58b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51db53697a53f7a479b8570674dae649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b109e9a4794475241ae404001b13d191, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67f304b9bd84e9848bcfb79f47790081, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 335d4e4095e448540af612dfdb9a5f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 744fe87450cacb540a480f62655ecb31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcb0d888302115f40a5309bfd4df0f71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c885cc170b9527e4486978a8e504e76a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa29ef7c1cc90947b03af8acde6e716, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/12.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/10.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/04.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/01.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/11.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/08.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/03.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/09.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/02.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/07.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/05.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl14/06.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

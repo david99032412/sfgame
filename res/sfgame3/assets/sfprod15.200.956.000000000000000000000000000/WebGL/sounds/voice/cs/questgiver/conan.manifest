@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2883283549
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 725c2ece0c3d4629fd4d112484f8a48c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Questgiver/Conan/generic05.wav
+- Assets/Sounds/Voice/cs/Questgiver/Conan/generic01.wav
+- Assets/Sounds/Voice/cs/Questgiver/Conan/generic03.wav
+- Assets/Sounds/Voice/cs/Questgiver/Conan/generic04.wav
+- Assets/Sounds/Voice/cs/Questgiver/Conan/generic02.wav
+Dependencies: []

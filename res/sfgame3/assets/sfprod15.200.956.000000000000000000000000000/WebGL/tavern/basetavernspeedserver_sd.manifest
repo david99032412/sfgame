@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2060693079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0368d831f2a038834a4a3d97601ac0de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe5b2f4e0672a7bd51ddc249c22f200c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6101c8310a330214983a39eace2091e3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/BaseTavernSpeedServerSprites_sd.asset
+Dependencies: []

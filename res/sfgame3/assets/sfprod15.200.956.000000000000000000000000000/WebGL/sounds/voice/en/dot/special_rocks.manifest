@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1040395085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2852a92536710933f387f7ad46ff5f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_rocks/special_rocks01.wav
+Dependencies: []

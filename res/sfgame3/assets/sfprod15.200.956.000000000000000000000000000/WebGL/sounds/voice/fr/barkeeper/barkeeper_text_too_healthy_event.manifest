@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2143946954
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94efde06f38de9bc3f4c828626892117
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_too_healthy_event/barkeeper_text_too_healthy_event01.wav
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_too_healthy_event/barkeeper_text_too_healthy_event03.wav
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_too_healthy_event/barkeeper_text_too_healthy_event02.wav
+Dependencies: []

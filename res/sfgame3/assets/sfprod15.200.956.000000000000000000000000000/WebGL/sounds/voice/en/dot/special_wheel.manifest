@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3372941968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 501d1da0b5cc4c69054539c4f21f3827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_wheel/special_wheel01.wav
+Dependencies: []

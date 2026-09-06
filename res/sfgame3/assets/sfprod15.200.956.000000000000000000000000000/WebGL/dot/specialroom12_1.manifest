@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 597334922
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c1bcab25071da78f805830794fa3b49
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c0883afb7b783719700f7397a07ed26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fb13b43239db904bb86889247292e34, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/specialrooms/specialroom12_1.asset
+Dependencies: []

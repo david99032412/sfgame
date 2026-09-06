@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1660705595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1835ac7b527ee46a6992ceb3fec8374b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds_sd/Dungeon/location65_sd.png
+Dependencies: []

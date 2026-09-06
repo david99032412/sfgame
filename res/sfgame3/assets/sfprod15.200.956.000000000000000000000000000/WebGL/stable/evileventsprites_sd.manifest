@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2790253951
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3579f3c036b77297406f0eb2d733e0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b140ad624c87162b10a8a52572797bce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b71f56d6cea339744a6d74eb0edc4a37, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Stable/EvilAnimalEventSprites_sd.asset
+Dependencies: []

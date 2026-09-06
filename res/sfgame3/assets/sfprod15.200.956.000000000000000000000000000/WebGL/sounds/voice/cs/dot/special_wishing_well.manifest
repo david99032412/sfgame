@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 400139002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02801f18925fe320407e35fd3771395f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_wishing_well/special_wishing_well01.wav
+Dependencies: []

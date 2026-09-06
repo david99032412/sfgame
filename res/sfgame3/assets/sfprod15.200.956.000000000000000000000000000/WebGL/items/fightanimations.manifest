@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1230530358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64a04a417f3f82d7b0d09c95b07a9138
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aac9443fa6d7926c6a978e413a30efe7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6e4dc6385cd5ad41aa7aa67d1ad4260, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/FightAnimation/fight_weapon_4.png
+- Assets/Art/Screens/Fight/FightAnimation/fight_weapon_0.png
+- Assets/Art/Screens/Fight/FightAnimation/fight_weapon_6.png
+- Assets/ScriptableObjects/Sprites/FightSpriteMapping.asset
+- Assets/Art/Screens/Fight/FightAnimation/fight_weapon_5.png
+- Assets/Art/Screens/Fight/FightAnimation/fight_weapon_7.png
+Dependencies: []

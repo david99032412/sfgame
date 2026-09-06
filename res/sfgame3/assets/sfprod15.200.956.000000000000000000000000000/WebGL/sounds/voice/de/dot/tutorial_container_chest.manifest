@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2518384501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e6a0ec676b22f9447550f19c677756d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/tutorial_container_chest/tutorial_container_chest01.wav
+Dependencies: []

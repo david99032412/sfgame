@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 101304257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9678fb11ec3c4aab0fb9a1f9f7bf4139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/DotGloria/blocked_gloria/blocked_gloria02.wav
+- Assets/Sounds/Voice/fr/DotGloria/blocked_gloria/blocked_gloria01.wav
+Dependencies: []

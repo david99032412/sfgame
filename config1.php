@@ -18,7 +18,7 @@
 		"tv_function_name" => "flimmerkiste",
 		"dungeon_video_url" => "https://cdn.playa-games.com/res/sfgame3/assets/video/dot_wizard/dot_wizard23_intro.mp4",
 		"sso" => [
-		  "domain" => "sso.playa-games.com"
+		  "domain" => "northsiderp.hu"
 		  ],
 		"cookie" => [
 		  "consent" => [

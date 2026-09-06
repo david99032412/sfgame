@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 959911678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87853b9ddfe7d8001c77fec55716b6e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/dot_base_gloria_01.wav
+Dependencies: []

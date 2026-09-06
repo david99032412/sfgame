@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 3333880621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c834599168847a29217a02e79a2a60bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d75072bed62da90d950e7f5c2d6be940
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51db53697a53f7a479b8570674dae649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b109e9a4794475241ae404001b13d191, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 335d4e4095e448540af612dfdb9a5f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcb0d888302115f40a5309bfd4df0f71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c885cc170b9527e4486978a8e504e76a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/02.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/01.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/06.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/12.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/03.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/08.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/05.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/09.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/07.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/11.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/10.prefab
+- Assets/Prefabs/Screens/Fortress/Buildings/lvl00_sd/04.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 787744690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c20c8b1751feee13c7a79f29428fb554
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd06.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd01.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd05.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd02.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd07.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd03.wav
+- Assets/Sounds/Voice/cs/DotBD/misc_bd/misc_bd04.wav
+Dependencies: []

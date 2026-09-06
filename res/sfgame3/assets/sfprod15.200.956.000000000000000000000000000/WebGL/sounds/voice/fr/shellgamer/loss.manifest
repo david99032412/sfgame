@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 488566238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c9a39ee77c6b17e3c6bca23d1af1935
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/ShellGamer/Loss/loss01.wav
+- Assets/Sounds/Voice/fr/ShellGamer/Loss/loss02.wav
+Dependencies: []

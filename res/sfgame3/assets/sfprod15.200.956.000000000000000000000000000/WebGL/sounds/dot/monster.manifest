@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 533740634
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e3af5fd1ba4df50e79258696338d4db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/monster/enemy_skeleton_death.wav
+- Assets/Sounds/dot/monster/enemy_golem_death.wav
+- Assets/Sounds/dot/monster/enemy_pixie_hit.wav
+- Assets/Sounds/dot/monster/enemy_magician_hit.wav
+- Assets/Sounds/dot/monster/enemy_undead_death.wav
+- Assets/Sounds/dot/monster/enemy_spider_death.wav
+- Assets/Sounds/dot/monster/enemy_tv_hit.wav
+- Assets/Sounds/dot/monster/enemy_demon_death.wav
+- Assets/Sounds/dot/monster/enemy_snake_death.wav
+- Assets/Sounds/dot/monster/claw_attack.wav
+- Assets/Sounds/dot/monster/enemy_magician_death.wav
+- Assets/Sounds/dot/monster/enemy_witch_death.wav
+- Assets/Sounds/dot/monster/enemy_beast_hit.wav
+- Assets/Sounds/dot/monster/enemy_rat_death.wav
+- Assets/Sounds/dot/monster/enemy_ghost_hit.wav
+- Assets/Sounds/dot/monster/enemy_pixie_death.wav
+- Assets/Sounds/dot/monster/enemy_rat_hit.wav
+- Assets/Sounds/dot/monster/enemy_skeleton_hit.wav
+- Assets/Sounds/dot/monster/enemy_black_warrior_hit.wav
+- Assets/Sounds/dot/monster/enemy_undead_hit.wav
+- Assets/Sounds/dot/monster/enemy_witch_hit.wav
+- Assets/Sounds/dot/monster/enemy_crow_hit.wav
+- Assets/Sounds/dot/monster/enemy_monster_death.wav
+- Assets/Sounds/dot/monster/enemy_ghost_death.wav
+- Assets/Sounds/dot/monster/enemy_snake_hit.wav
+- Assets/Sounds/dot/monster/enemy_spider_hit.wav
+- Assets/Sounds/dot/monster/enemy_pig_hit.wav
+- Assets/Sounds/dot/monster/enemy_monster_hit.wav
+- Assets/Sounds/dot/monster/enemy_golem_hit.wav
+- Assets/Sounds/dot/monster/enemy_tv_death.wav
+- Assets/Sounds/dot/monster/enemy_beast_death.wav
+- Assets/Sounds/dot/monster/enemy_pig_death.wav
+- Assets/Sounds/dot/monster/enemy_demon_hit.wav
+- Assets/Sounds/dot/monster/enemy_black_warrior_death.wav
+- Assets/Sounds/dot/monster/enemy_crow_death.wav
+Dependencies: []

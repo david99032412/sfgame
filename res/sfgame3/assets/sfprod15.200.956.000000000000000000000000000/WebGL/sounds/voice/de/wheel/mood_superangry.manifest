@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3500704707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aae46aedddeef3a40f38fe701b8d8517
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Wheel/Mood_SuperAngry/mood_superangry01.wav
+Dependencies: []

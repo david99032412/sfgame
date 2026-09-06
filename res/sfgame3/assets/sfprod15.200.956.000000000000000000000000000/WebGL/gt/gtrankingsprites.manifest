@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4156240239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d40b8f75ed65c0c326f2eaa78c0aeb57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9a51147c4281b34a920a1b0a11d7523
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d78dc21fda36ca94689717100cbf43d7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildTournament/common/gtrankingsprites.asset
+- Assets/Art/Screens/GuildTournament/Common/ranking/ranking.png
+Dependencies: []

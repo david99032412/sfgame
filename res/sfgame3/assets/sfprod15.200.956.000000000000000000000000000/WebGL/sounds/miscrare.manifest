@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3634905832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 885c9fdc94270269465480126eaa2fe4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/MiscRare/elevator_bell.wav
+- Assets/Sounds/MiscRare/unlock.mp3
+- Assets/Sounds/MiscRare/blacksmith.mp3
+Dependencies: []

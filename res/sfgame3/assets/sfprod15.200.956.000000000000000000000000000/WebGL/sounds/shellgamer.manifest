@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3491866857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c045158a4bf2ced80197ee8ed9492636
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/ShellGamer/cup_up.wav
+- Assets/Sounds/ShellGamer/cup_move.wav
+- Assets/Sounds/ShellGamer/dice_impact2.wav
+- Assets/Sounds/ShellGamer/dice_impact4.wav
+- Assets/Sounds/ShellGamer/dice_impact1.wav
+- Assets/Sounds/ShellGamer/dice_impact3.wav
+- Assets/Sounds/ShellGamer/cup_down.wav
+Dependencies: []

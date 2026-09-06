@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 856107806
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9233ded48ab07dd9e7b2fb1e39765f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_container_hp/tutorial_container_hp01.wav
+Dependencies: []

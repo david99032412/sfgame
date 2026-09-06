@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1311252503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02e72ba25b07d8634e3b981bc156352e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Wheel/Mood_Happy/mood_happy01.wav
+Dependencies: []

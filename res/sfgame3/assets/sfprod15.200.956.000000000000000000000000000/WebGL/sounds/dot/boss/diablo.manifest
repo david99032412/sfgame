@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 595387320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 906e98c855d2d57d3bbbb842f5807b61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/boss/diablo/boss_hit_5214.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5217.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5159.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5172.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5216.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5214.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5215.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5215.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5159.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5160.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5159.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5217.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5216.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5216.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5168.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5160.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5168.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5214.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5172.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5160.wav
+- Assets/Sounds/dot/boss/diablo/boss_intro_5215.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5217.wav
+- Assets/Sounds/dot/boss/diablo/boss_hit_5172.wav
+- Assets/Sounds/dot/boss/diablo/boss_death_5168.wav
+Dependencies: []

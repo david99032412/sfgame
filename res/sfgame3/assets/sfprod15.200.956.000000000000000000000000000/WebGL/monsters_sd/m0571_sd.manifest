@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3983711377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df3c1b9f79557156a992dfb5c3e34f23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/Portal/monster571.png
+Dependencies: []

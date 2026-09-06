@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4020802866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 996195789fcc49c3306d4a1fc4f889fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Barkeeper/dot_hint/barkeeper_dot_hint_depleted.wav
+- Assets/Sounds/Voice/de/Barkeeper/dot_hint/barkeeper_dot_hint.wav
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3780868434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e92c2eee0f97ee0730b2d777f10c0a37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/14-Tower/monster413.png
+Dependencies: []

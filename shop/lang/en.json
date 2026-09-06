@@ -1,0 +1,171 @@
+{
+	"menu-tabs": {
+		"home": "Player Profile",
+		"tavern": "Tavern",
+		"special": "Portraits",
+		"dungeon": "Dungeons",
+		"stats": "Statistics",
+		"voucher": "Reedem Voucher"
+	},
+	"errors": {
+		"no-login": "You are not logged in. Please log in to continue.",
+		"perm-ban": "Your account has been permanently banned.",
+		"temp-ban": "Your account is banned until %s"
+	},
+	"home-itm": {
+		"player_name": "Name",
+		"level": "Level",
+		"rank": "Rank",
+		"class": "Class",
+		"mushrooms": "Mushrooms",
+		"completed_quests": "Completed Tavern Quests",
+		"worked_hours": "Hours Worked on guard",
+		"arena_wins": "Arena Wins",
+		"current_difficulty_light": "Current dungeon difficulty level 10 - %d in light world",
+		"current_xp_bonus_light": "Current dungeon XP bonus 10 - %d in light world",
+		"current_difficulty_shadow": "Current dungeon difficulty level 10 - %d in shadow world",
+		"current_xp_bonus_shadow": "Current dungeon XP bonus 10 - %d in shadow world",
+		"current_difficulty_tower": "Current tower difficulty level",
+		"current_xp_bonus_tower": "Current tower XP bonus",
+		"current_difficulty_twister": "Current twister difficulty level",
+		"current_xp_bonus_twister": "Current twister XP bonus",
+		"current_difficulty_idols": "Current idols carousel difficulty level",
+		"current_xp_bonus_idols": "Current idols carousel XP bonus",
+		"server_stats": "Server Statistics",
+		"online_15m": "Online[15m]",
+		"online_24h": "Online[24h]",
+		"registered": "Registered",
+		"player_info": "Player Information"
+	},
+	"tavern-itm": {
+		"1": {
+			"title": "Reset Beer I",
+			"description": "Resets 1 consumed beer",
+			"error": "You haven't consumed any beer yet"
+		},
+		"2": {
+			"title": "Reset Beer II",
+			"description": "Resets 5 consumed beers",
+			"error": "You haven't consumed 5 beers"
+		},
+		"3": {
+			"title": "Reset Beer III",
+			"description": "Resets 10 consumed beers",
+			"error": "You haven't consumed 10 beers"
+		},
+		"4": {
+			"title": "Beer I",
+			"description": "Restores 20 thirst of adventure"
+		},
+		"5": {
+			"title": "Beer II",
+			"description": "Restores 50 thirst of adventure"
+		},
+		"6": {
+			"title": "Beer III",
+			"description": "Restores 100 thirst of adventure"
+		},
+		"7": {
+			"title": "Beer IV",
+			"description": "Restores 200 thirst of adventure"
+		},
+		"8": {
+			"title": "Beer V",
+			"description": "Restores 500 thirst of adventure"
+		},
+		"9": {
+			"title": "Beer VI",
+			"description": "Restores 1,000 thirst of adventure"
+		},
+		"10": {
+			"title": "Lucky Coins I",
+			"description": "Adds 10 lucky coins"
+		},
+		"11": {
+			"title": "Lucky Coins II",
+			"description": "Adds 100 lucky coins"
+		},
+		"12": {
+			"title": "Lucky Coins III",
+			"description": "Adds 1,000 lucky coins"
+		},
+		"13": {
+			"title": "Hourglass I",
+			"description": "Adds 10 hourglasses"
+		},
+		"14": {
+			"title": "Hourglass II",
+			"description": "Adds 100 hourglasses"
+		},
+		"15": {
+			"title": "Hourglass III",
+			"description": "Adds 500 hourglasses"
+		}
+	},
+	"special-itm": {
+		"error": "You already own this portrait",
+		"error2": "Invalid portrait index"
+	},
+	"dungeon-itm": {
+		"description": "Each dungeon reset makes enemies 5 times stronger and increases experience gained by 5% (max. 50%)",
+		"1": {
+			"title": "Reset Light World",
+			"description": "Resets dungeons 10+ in light world",
+			"error": "You haven't completed all dungeons 10+ in light world"
+		},
+		"2": {
+			"title": "Reset Shadow World",
+			"description": "Resets dungeons 10+ in shadow world",
+			"error": "You haven't completed all dungeons 10+ in shadow world"
+		},
+		"3": {
+			"title": "Reset Tower",
+			"description": "Resets tower",
+			"error": "You haven't completed the tower"
+		},
+		"4": {
+			"title": "Reset Twister",
+			"description": "Resets twister",
+			"error": "You haven't completed the twister"
+		},
+		"5": {
+			"title": "Reset Idols Carousel",
+			"description": "Resets idols carousel dungeon",
+			"error": "You haven't completed the idols carousel"
+		}
+	},
+	"stats-itm": {
+		"description": "This tab allows for quick upgrading of stats if the upgrade price is %s <img src=\"img/%s\" width=\"25px\" height=\"25px\">",
+		"total-price": "Total Upgrade Cost",
+		"str": "Strength",
+		"dex": "Dexterity",
+		"intel": "Intelligence",
+		"wit": "Constitution",
+		"luck": "Luck",
+		"error": "Insufficient gold and/or selected stats are not upgraded to the price of %s gold",
+		"stats-txt": "[<font color=\"gold\">%s</font> %s times]",
+		"success": "Successfully upgraded <br> %s <hr/> Gold Spent: %s"
+	},
+	"vouchers-itm": {
+		"enter-code": "Enter Voucher Code",
+		"reedem": "Redeem Voucher",
+		"success": "Successfully reedem",
+		"error1": "You have already redeemed a voucher today",
+		"error2": "Invalid voucher code or voucher does not exist"
+	},
+	"error-title": "Oops..",
+	"missing-currency": "You are %s <img src=\"img/%s\" width=\"25px\" height=\"25px\"> short to complete the purchase",
+	"success-title": "Success",
+	"transaction-success": "Transaction successful",
+	"labels": {
+		"buy": "Buy",
+		"upgrade": "Upgrade",
+		"price": "Price"
+	},
+	"ranks": {
+		"1": "Player",
+		"2": "VIP",
+		"3": "Moderator",
+		"4": "Administrator"
+	}
+}

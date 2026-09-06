@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2161531376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ddcf26846295f704332fbfdc276f990
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_53.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_54.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_62.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_9.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_59.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_6.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_55.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_58.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_51.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_2.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_63.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_7.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_56.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_67.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_5.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_103.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_60.png
+- Assets/Art/Atlases/Items/MageHits.spriteatlas
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_10.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_65.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_50.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_1.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_4.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_3.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_57.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_64.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_52.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_61.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_102.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_8.png
+- Assets/Art/Screens/Character/Items/MageHits/hit_2_66.png
+Dependencies: []

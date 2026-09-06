@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 726790256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31d63d396598a5e53e0048a8a522acb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7aabd2d43fce89c827c961c329daa8ba
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ae644a24407edb47afe03522f469450, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/FortressSprites.asset
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

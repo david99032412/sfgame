@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1846789943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43bea45e2b9bf93b1897b1970ef4da67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d3a5e693deaf909189ee79e4eb2056
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e2358e9c336e7d4b90c45e7299f3992, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildTournament/shop/gtinteractionframesprites.asset
+Dependencies: []

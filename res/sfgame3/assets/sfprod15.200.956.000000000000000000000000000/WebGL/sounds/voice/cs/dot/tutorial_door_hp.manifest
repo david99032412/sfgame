@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 20746389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7116dac136065675b46ef5e3e99fc1b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/tutorial_door_hp/tutorial_door_hp01.wav
+Dependencies: []

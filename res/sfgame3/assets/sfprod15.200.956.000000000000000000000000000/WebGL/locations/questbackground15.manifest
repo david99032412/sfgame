@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 398520803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64d3d2e23aa315e9c1c298eff3497719
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds/Questing/location16.png
+Dependencies: []

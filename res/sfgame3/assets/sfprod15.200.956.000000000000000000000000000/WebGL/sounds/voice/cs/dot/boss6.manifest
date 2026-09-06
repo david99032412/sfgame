@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2759294942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53a5c8dbc3dda954b30fa87166103339
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/boss6/boss601.wav
+Dependencies: []

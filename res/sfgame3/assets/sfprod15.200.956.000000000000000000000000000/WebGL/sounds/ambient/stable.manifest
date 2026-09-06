@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 680724207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e70d09dc081d8f062c166532b3b9057c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/stable.wav
+Dependencies: []

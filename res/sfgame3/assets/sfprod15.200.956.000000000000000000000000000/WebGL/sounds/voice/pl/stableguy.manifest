@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3797408857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8096cd34f4cc4897e6cf5449e6ccf1d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/StableGuy/generic04.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic06.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic07.wav
+- Assets/Sounds/Voice/pl/StableGuy/evening01.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic02.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic05.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic01.wav
+- Assets/Sounds/Voice/pl/StableGuy/generic03.wav
+- Assets/Sounds/Voice/pl/StableGuy/morning01.wav
+Dependencies: []

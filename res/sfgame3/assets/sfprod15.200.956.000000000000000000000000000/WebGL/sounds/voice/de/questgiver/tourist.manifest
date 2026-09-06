@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3225741940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a900726fea9e2605a9c0e278e99c6be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic07.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic02.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic08.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic09.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic04.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/evening01.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic06.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/morning01.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic05.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic01.wav
+- Assets/Sounds/Voice/de/Questgiver/Tourist/generic03.wav
+Dependencies: []

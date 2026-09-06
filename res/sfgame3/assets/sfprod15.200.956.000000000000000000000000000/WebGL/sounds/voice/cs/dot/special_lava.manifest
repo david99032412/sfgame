@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3957795886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dde1d6fa6c7ec8129952d9042c265b3d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_lava/special_lava01.wav
+Dependencies: []

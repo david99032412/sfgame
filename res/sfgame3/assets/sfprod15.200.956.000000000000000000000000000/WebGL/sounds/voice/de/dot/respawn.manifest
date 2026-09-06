@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1622615329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e2b936c88882a24194e88e3edc16563
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/respawn/respawn04.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn07.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn08.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn09.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn01.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn10.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn03.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn05.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn02.wav
+- Assets/Sounds/Voice/de/Dot/respawn/respawn06.wav
+Dependencies: []

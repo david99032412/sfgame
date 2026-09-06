@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3996158411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6822301b102ddee76d1de4117689d014
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3db634c4027f27e125380df7b8e1a309
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e8be7d5d81f99f4f994add25d491d1f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/UIComponents/NewProgressBars/progressbarassets_portrait.asset
+Dependencies: []

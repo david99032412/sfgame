@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1732385048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 545d2d3cf06c2c89afe1c32db5201055
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/ItemsLegendariesHuge/Birthday/itm3_103.png
+Dependencies: []

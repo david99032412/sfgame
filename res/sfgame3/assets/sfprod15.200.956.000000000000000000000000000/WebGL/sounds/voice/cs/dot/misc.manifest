@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3486985494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84ad9eeb51bf65c37ccf3d05403172fe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/misc/misc24.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc26.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc17.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc08.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc25.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc51.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc60.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc21.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc01.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc33.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc22.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc35.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc44.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc49.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc59.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc23.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc52.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc46.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc29.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc61.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc02.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc54.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc12.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc16.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc45.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc20.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc58.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc19.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc04.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc15.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc28.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc38.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc39.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc10.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc30.wav
+- Assets/Sounds/Voice/cs/Dot/misc/misc40.wav
+Dependencies: []

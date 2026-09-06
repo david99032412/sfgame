@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1800739716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 932713c7a5ecf773376e564311f6a69e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_event_generic/barkeeper_text_event_generic02.wav
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_event_generic/barkeeper_text_event_generic03.wav
+- Assets/Sounds/Voice/fr/Barkeeper/barkeeper_text_event_generic/barkeeper_text_event_generic01.wav
+Dependencies: []

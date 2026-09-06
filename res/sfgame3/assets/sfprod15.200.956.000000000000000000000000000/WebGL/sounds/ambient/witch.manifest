@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1245253380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71db334f9e02088838b34e25d1c07e3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/witch.wav
+Dependencies: []

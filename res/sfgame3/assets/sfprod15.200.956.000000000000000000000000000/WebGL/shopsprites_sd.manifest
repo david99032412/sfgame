@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 784082042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2c10cc270f88918a76dea9e6ea6b55b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47cd169d11a122320d91fcf5031f5b5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d4927f2ff24e5045b4c66f3f59440aa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/ShopSprites_sd.asset
+Dependencies: []

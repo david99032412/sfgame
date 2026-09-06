@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3841280242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78bc6f0024cb023a9f11b1e34ad40aac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/gt/treason/monster6029.png
+Dependencies: []

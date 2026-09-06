@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2446247300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b4f3568d418988cc704e3644bd2d08b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/20-ShadowBirthday/monster1125.png
+Dependencies: []

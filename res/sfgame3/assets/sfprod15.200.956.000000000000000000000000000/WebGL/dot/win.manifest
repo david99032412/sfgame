@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3085992652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9b25bece971500de379483d341f47f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6106f875cd68997b46d818f76e616ee2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73c13151fd900ae42bcd780a3e4396ee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/win/win.asset
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/locations/dotwinbackground

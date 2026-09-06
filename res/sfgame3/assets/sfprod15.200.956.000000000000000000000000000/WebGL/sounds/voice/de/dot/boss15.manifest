@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2631694435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aec2bc6a8f10a1c3f6bd6b7ea89896bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/boss15/boss1501.wav
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 961947896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3ccdf4ddd663797e77fb2690a5030c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Guards/night01.wav
+- Assets/Sounds/Voice/pl/Guards/generic03.wav
+- Assets/Sounds/Voice/pl/Guards/generic02.wav
+- Assets/Sounds/Voice/pl/Guards/evening01.wav
+- Assets/Sounds/Voice/pl/Guards/morning01.wav
+- Assets/Sounds/Voice/pl/Guards/generic01.wav
+Dependencies: []

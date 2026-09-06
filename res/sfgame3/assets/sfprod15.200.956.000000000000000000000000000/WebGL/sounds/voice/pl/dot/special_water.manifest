@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2091185285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60194b2e4236ee334bd659af7ef85656
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/special_water/special_water01.wav
+Dependencies: []

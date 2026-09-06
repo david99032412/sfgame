@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3338362285
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e55abc7c876b126b45b387c7e323b898
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/19-Greek/monster1414.png
+Dependencies: []

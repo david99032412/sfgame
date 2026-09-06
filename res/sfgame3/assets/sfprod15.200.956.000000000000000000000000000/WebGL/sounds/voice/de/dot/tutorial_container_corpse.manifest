@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3941510708
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af3e3930e0ea9b71ebe2687dca618203
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/tutorial_container_corpse/tutorial_container_corpse01.wav
+Dependencies: []

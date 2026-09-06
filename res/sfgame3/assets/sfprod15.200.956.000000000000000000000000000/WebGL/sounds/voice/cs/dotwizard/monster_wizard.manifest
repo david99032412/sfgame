@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 98446055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 977f50aff9cb6e27327d218d6d5a72de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard07.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard08.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard02.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard06.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard10.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard03.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard01.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard04.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard05.wav
+- Assets/Sounds/Voice/cs/DotWizard/monster_wizard/monster_wizard09.wav
+Dependencies: []

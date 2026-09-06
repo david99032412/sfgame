@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1847538650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a593881de35e54e92f413c2d24aa4547
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/special_narrator/special_narrator01.wav
+Dependencies: []

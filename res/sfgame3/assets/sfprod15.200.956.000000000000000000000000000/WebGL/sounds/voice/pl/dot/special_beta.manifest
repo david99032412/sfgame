@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3202356879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c6f37162e2be21e37282ad23e9fab9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/special_beta/special_beta01.wav
+Dependencies: []

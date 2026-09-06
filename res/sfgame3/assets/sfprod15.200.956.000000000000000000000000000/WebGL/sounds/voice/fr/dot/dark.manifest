@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3072119944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 087acad9892fd64cc405dc77af6155c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/dark/dark09.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark10.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark02.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark08.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark11.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark12.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark03.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark01.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark06.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark07.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark04.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark05.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark14.wav
+- Assets/Sounds/Voice/fr/Dot/dark/dark13.wav
+Dependencies: []

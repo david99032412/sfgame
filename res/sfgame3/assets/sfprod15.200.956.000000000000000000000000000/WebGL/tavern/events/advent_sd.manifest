@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4162966692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e791aeccd399c10066db95ee663d8ca4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5404d201444122797872ff1be9d0774e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5c88d22ad9f34d478181a54cbc37319, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa29ef7c1cc90947b03af8acde6e716, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Prefabs/Screens/Tavern/TavernScreenCandleHolderAdvent_sd.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

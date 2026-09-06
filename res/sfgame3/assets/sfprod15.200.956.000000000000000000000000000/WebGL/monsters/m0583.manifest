@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1155244966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 231cf8037450b269d30e668f52af5127
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/Portal/monster583.png
+Dependencies: []

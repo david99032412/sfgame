@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2054406045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de37744e21133d338b14dc396a74abdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic16.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic12.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic05.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic13.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic02.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic14.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/evening01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic15.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic08.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic03.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic07.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic11.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic10.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic04.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic09.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/morning01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Magician/generic06.wav
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2574717987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe57fb868aed70bd367b17e6c715bb3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/dot_bossdoor.wav
+Dependencies: []

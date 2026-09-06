@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 125856907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6f7329ce3448adc61f560afe1638ebf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_changing_room/special_changing_room01.wav
+Dependencies: []

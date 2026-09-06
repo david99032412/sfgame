@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3360035645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ed411c75b8d1ea4581faa6a7ca2acd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d598dae5429841c095fdf47a95f6d07
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7377f0585a387ec4c93a696e0bc6517d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/Overview/dotoverviewassets_sd.asset
+Dependencies: []

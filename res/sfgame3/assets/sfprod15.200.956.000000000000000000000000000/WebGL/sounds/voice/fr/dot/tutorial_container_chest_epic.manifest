@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4198396816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7efe21fd48060eb3841c353642aac622
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/tutorial_container_chest_epic/tutorial_container_chest_epic01.wav
+Dependencies: []

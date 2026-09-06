@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3794301617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e655ad8e3cdfc5633620b923a2a79ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b052831f6c02f77389ed7a237491992b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a68d4d88ddc4f04c8f11327efdb19eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/DungeonShadowWorldSprites.asset
+Dependencies: []

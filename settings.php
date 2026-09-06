@@ -5,7 +5,7 @@ $gameName = "Shakes & Fidget";
 $sandbox = false; // Sandbox mode, use TRUE only if you develope the script, it'll display errors and more info about not working things
 
 // db
-$db = new PDO('mysql:host=localhost;dbname=sfprivate;charset=utf8', 'root', '');
+$db = new PDO('mysql:host=localhost;dbname=sfgame;charset=utf8', 'root', 'laller');
 $db->setAttribute(PDO::ATTR_ORACLE_NULLS, PDO::NULL_TO_STRING);
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $db->exec("SET sql_mode=''");
@@ -13,7 +13,7 @@ $db->exec("SET sql_mode=''");
 $timezone = 'Europe/Budapest';
 date_default_timezone_set($timezone);
 $CURRTIME = time(); // If there are problems with the timezone, you can add to it.
-$clientWeb = "localhost/v15"; // Domain of the server
+$clientWeb = "northsiderp.hu"; // Domain of the server
 
 $logRequests = false;
 

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2982621747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b8bef70d6f7d50c147c7dbbf68b815f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07306639650ec8236010175ac7be57cc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11c1a6c115589834e9d84f17800e00a3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Dealer/BasicOffer_sd.asset
+Dependencies: []

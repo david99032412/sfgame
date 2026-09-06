@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 64041151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa312cbc687495344e07e028563cf572
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17e417ab3c6ae2b51584f152506416dc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dea94525464a6aa479e2b0b3d8c6c064, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Dealer/DealerSprites_sd.asset
+Dependencies: []

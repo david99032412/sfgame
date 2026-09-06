@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4074245439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89f7f87203f1e968c6abbf58b0a71c4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/DotWizard/blocked_wizard/blocked_wizard01.wav
+- Assets/Sounds/Voice/pl/DotWizard/blocked_wizard/blocked_wizard02.wav
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1119316827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 093697b7c30f3c74786b1ab789ec0486
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic05.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic07.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic04.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/morning01.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/evening01.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic08.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic09.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic06.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic02.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic01.wav
+- Assets/Sounds/Voice/cs/Questgiver/Paladin/generic03.wav
+Dependencies: []

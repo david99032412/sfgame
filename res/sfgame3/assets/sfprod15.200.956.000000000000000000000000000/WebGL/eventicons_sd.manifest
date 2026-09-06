@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3812413029
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98ab0ae09a8489e7bdc2e4e32e345f29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3bc82eb80c5cf7fd149b058af22ed8db
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e248423f6c351dc4fb3b5f878231ec28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/EventIconSprites_sd.asset
+Dependencies: []

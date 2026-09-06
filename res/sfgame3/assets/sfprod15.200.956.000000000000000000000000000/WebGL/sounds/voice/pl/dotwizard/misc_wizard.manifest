@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1728495206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f010f9133ae3ef409f54f634739768c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard02.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard11.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard08.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard12.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard04.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard03.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard13.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard06.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard09.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard17.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard10.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard05.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard14.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard18.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard15.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard01.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard07.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard19.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard20.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard21.wav
+- Assets/Sounds/Voice/pl/DotWizard/misc_wizard/misc_wizard16.wav
+Dependencies: []

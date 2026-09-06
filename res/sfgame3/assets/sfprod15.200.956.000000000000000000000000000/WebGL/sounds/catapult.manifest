@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 216893604
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dea438f45fa29efbf6f0718e32c31d34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Catapult/catapult_launch.mp3
+- Assets/Sounds/Catapult/catapult_hit.mp3
+Dependencies: []

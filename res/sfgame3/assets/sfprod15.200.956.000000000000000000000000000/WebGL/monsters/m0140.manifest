@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 867215975
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e970d5a5f449d38f77d75de3ed111ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/_General/monster140.png
+Dependencies: []

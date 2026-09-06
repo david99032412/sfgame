@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3748335483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ede64d8b4aac36489957c1e8538e9426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/ItemsLegendariesHuge/Easter/itm9_106.png
+Dependencies: []

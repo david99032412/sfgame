@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 725866731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f71ce239bc7f1d12321d51773d9135c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/boss14/boss1401.wav
+Dependencies: []

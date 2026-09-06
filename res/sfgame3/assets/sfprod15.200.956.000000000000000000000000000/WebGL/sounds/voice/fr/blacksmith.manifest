@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 382163228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b18e4a61e702b6c8c9d4fc9b4451850c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Blacksmith/generic04.wav
+- Assets/Sounds/Voice/fr/Blacksmith/generic05.wav
+- Assets/Sounds/Voice/fr/Blacksmith/generic03.wav
+- Assets/Sounds/Voice/fr/Blacksmith/generic01.wav
+- Assets/Sounds/Voice/fr/Blacksmith/generic02.wav
+Dependencies: []

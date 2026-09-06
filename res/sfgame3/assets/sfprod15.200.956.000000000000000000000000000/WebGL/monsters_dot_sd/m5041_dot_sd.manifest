@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 506525522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e65e35adce9b5e54bf02f60ce0c68c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/dot/03-Hp/monster5041.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2032241551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84811923b4c2aedc50b87a0732d3824d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Barkeeper/Special8/barkeeper_text_special8.wav
+Dependencies: []

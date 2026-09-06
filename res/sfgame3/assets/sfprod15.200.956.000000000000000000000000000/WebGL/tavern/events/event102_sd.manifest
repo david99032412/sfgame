@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1657560048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4661e566b9e110a2a3541d287b2589e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2a51efc3ae9e89c720f8a6a8923a985
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c79bc8e9fbf7f2b4e8a68996d2869d6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TavernEventOverlays/event102_sd.asset
+Dependencies: []

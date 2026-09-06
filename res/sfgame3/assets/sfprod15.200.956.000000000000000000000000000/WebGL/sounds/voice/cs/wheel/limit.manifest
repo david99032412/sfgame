@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2383862138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1824d3d352844600c6a1e7477f339a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Wheel/Limit/limit01.wav
+Dependencies: []

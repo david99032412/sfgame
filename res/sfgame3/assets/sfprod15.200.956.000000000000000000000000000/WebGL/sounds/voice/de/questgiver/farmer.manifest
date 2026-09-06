@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3383406023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ae3a7cd0c77e0a46094e24a07ebbcce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Questgiver/Farmer/generic02.wav
+- Assets/Sounds/Voice/de/Questgiver/Farmer/generic03.wav
+- Assets/Sounds/Voice/de/Questgiver/Farmer/generic01.wav
+- Assets/Sounds/Voice/de/Questgiver/Farmer/generic05.wav
+- Assets/Sounds/Voice/de/Questgiver/Farmer/generic04.wav
+Dependencies: []

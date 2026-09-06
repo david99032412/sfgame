@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2546657460
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e265f016daa8fe5302ab79b802c945e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_rock_paper_scissors/special_rock_paper_scissors01.wav
+Dependencies: []

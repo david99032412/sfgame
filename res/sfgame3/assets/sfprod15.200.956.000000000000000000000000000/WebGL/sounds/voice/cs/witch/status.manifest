@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2561076686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89aa4ec36242a7021a585bec0a688ea3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Witch/Status/cooking.wav
+- Assets/Sounds/Voice/cs/Witch/Status/ingredient_wrong.wav
+- Assets/Sounds/Voice/cs/Witch/Status/no_more_scrolls.wav
+- Assets/Sounds/Voice/cs/Witch/Status/enchanted.wav
+Dependencies: []

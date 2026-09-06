@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1809879676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 186a8d21ade9dc32348ae5cb86a17939
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf0652f1fbacd58bb59d2f5ade14faba
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e18486d8fed10b4ebb285634186180c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/DungeonsOverviewSprites_sd.asset
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1960121792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6c5066f571a9f99f369349c285f962d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_wood/special_wood01.wav
+Dependencies: []

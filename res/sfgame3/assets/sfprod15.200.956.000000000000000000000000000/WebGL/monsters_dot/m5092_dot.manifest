@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3854462424
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ba9e0feb5140f0b994ac7303b4bcf51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/dot/04-Bd/monster5092.png
+Dependencies: []

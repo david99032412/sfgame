@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 4020757542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37df6abbcab35ed25b6d6327fbbf3c24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b7796fa69df44e2f47236f131ead5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f95f28701cea4f040881b626333adb83, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Pets/MonsterMedium/monster823.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster844.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster897.png
+- Assets/ScriptableObjects/Sprites/PetMediumSprites.asset
+- Assets/Art/Screens/Pets/MonsterMedium/monster883.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster860.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster802.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster890.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster822.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster888.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster856.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster869.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster863.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster847.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster857.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster878.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster877.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster882.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster824.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster827.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster846.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster859.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster813.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster803.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster834.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster899.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster825.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster819.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster838.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster841.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster852.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster816.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster886.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster876.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster849.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster826.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster862.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster804.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster828.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster861.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster818.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster848.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster837.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster801.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster840.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster821.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster809.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster896.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster851.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster868.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster806.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster835.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster830.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster811.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster836.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster814.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster866.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster829.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster895.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster871.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster880.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster892.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster815.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster800.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster864.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster842.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster858.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster807.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster854.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster853.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster850.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster879.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster884.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster833.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster889.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster887.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster845.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster839.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster810.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster898.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster820.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster808.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster865.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster881.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster831.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster894.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster805.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster832.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster817.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster891.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster874.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster885.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster812.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster843.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster893.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster867.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster855.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster873.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster872.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster875.png
+- Assets/Art/Screens/Pets/MonsterMedium/monster870.png
+Dependencies: []

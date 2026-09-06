@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 399844658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e77b76c0fb62922ef972d89c73cc475
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/_General/monster130.png
+Dependencies: []

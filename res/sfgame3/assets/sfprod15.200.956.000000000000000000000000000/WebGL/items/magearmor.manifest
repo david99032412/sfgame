@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4159656674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a9c0674a11eb00985d8eeb9d9028491
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfbd5677ed1d2b41e771622c2f2a9575
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fbd5f3523b50704eb7eb75108d82fbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.Model
+  ClassName: PlayaGames.ShakesAndFidget.PlayerModel.ItemIdentifier
+Assets:
+- Assets/Art/Atlases/Items/MageArmor.spriteatlas
+- Assets/ScriptableObjects/Sprites/Items/magearmorMapping.asset
+Dependencies: []

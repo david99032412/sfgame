@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1763740885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3b19a04a62c0abe1fb7d046b29e45ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_spider/special_spider01.wav
+Dependencies: []

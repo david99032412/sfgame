@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1541380078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2a7c312a5dabe7c79d88376755dc6d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic03.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic19.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic09.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic06.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic04.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic14.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic20.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic11.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic07.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic13.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic16.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic12.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic08.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic18.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic02.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic17.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/evening01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic05.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/night01.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic15.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/generic10.wav
+- Assets/Sounds/Voice/pl/Questgiver/Elf/morning01.wav
+Dependencies: []

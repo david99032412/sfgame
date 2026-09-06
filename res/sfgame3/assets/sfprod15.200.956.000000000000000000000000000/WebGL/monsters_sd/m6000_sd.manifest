@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3814835906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc2ed6a42ef226140cc1bf5b5bef9f05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/gt/anger/monster6000.png
+Dependencies: []

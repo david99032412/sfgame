@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3075720695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b9681a74578c6035b5c593efd3e80a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f33745dc4f631b5b6db36a42e401f08b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4a94a75bdb8275489ab4e767da324bc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/PlayerIconSprites.asset
+Dependencies: []
