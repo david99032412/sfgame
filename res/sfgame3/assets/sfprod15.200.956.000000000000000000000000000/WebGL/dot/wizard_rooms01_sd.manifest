@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2126334129
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e08c9876061734d15b83c4a9139c14aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23e431d9819eaa37f86cc4b676cc5153
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 152b25b7a79ea744e8cff8d7f8760748, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/wizard/rooms_sd/rooms01_sd.asset
+Dependencies: []

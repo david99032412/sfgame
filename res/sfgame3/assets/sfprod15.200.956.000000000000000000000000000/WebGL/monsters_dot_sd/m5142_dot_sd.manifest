@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1592660841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98df6ec66a9de26f62ec2fdc35c7c4d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/dot/04-Bd/monster5142.png
+Dependencies: []

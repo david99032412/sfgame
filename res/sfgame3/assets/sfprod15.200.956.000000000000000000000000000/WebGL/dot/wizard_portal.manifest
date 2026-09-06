@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3967524476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e87de6643475c95333960edad335889e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a927e481ad67e4b052466beec539b3cf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6a4fb80d8be71f418c7540a8933a3fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/wizard/townportal/wizard_portal.asset
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 845565960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99d3e60814c254aff17855c75d71e52e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac6e05a0ce464251efd769d733138ad7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34baf01d0f782c14dbdbd8f8dc4c9bf5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Elemental_sd.asset
+Dependencies: []

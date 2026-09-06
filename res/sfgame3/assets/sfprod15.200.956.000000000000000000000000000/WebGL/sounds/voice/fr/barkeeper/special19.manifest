@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 720697843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc3009d1666480af7fbde53b8dba0ec8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Barkeeper/special19/barkeeper_text_special19.wav
+Dependencies: []

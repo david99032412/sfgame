@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1157357032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d4777d1f16638a713a5b88fc1412b0c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Weapons/wpn_1_20_k.wav
+- Assets/Sounds/Weapons/wpn_1_12_s.mp3
+- Assets/Sounds/Weapons/wpn_1_4_n.mp3
+- Assets/Sounds/Weapons/wpn_1_16_k.mp3
+- Assets/Sounds/Weapons/wpn_1_12_k.mp3
+- Assets/Sounds/Weapons/wpn_1_12_b.mp3
+- Assets/Sounds/Weapons/wpn_1_20_n.wav
+- Assets/Sounds/Weapons/wpn_1_20_s.wav
+- Assets/Sounds/Weapons/wpn_1_8_n.mp3
+- Assets/Sounds/Weapons/wpn_1_20_b.wav
+- Assets/Sounds/Weapons/wpn_1_16_n.mp3
+- Assets/Sounds/Weapons/wpn_1_8_b.mp3
+- Assets/Sounds/Weapons/wpn_1_4_k.mp3
+- Assets/Sounds/Weapons/wpn_1_16_s.mp3
+- Assets/Sounds/Weapons/wpn_1_8_s.mp3
+- Assets/Sounds/Weapons/wpn_1_0_k.mp3
+- Assets/Sounds/Weapons/wpn_1_12_n.mp3
+- Assets/Sounds/Weapons/wpn_1_4_s.mp3
+- Assets/Sounds/Weapons/wpn_1_0_s.mp3
+- Assets/Sounds/Weapons/wpn_1_0_n.mp3
+- Assets/Sounds/Weapons/wpn_1_16_b.mp3
+- Assets/Sounds/Weapons/wpn_1_8_k.mp3
+- Assets/Sounds/Weapons/wpn_1_4_b.mp3
+- Assets/Sounds/Weapons/wpn_1_0_b.mp3
+Dependencies: []

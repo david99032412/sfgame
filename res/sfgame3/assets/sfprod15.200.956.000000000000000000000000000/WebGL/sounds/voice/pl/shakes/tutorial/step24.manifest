@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4100376567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21689f6a3b73bbb483e1c9e8aa7d459a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Shakes/Tutorial/step24.wav
+Dependencies: []

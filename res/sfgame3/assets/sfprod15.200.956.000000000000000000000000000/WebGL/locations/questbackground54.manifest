@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3873670152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68d7fa7b12d872d698d729bfbf296266
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds/Dungeon/location55.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 781201005
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef9c3c759b2ad5a2bc4879e2819176ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/11-Hell/monster188.png
+Dependencies: []

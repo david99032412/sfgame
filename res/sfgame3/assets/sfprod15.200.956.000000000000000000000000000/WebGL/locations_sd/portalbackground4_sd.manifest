@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 620619520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0f16ecb6be22fc68a1cd1a9c120c7ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds_sd/Dungeon/PlayerPortal/location_portal_5_sd.png
+Dependencies: []

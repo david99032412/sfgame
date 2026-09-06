@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 228804075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f690882b3f8ae9057a6ac54576b0626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_door_locked_double/tutorial_door_locked_double01.wav
+Dependencies: []

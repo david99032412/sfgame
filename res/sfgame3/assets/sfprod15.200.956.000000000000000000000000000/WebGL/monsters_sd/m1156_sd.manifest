@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3718878035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d767d7b62648c35233030e251b7248b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/23-Superheroes/monster1156.png
+Dependencies: []

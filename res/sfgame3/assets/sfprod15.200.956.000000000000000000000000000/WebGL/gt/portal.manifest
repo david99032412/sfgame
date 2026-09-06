@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2352815055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8c124578e79c002e3bc3799b85fdc54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a927e481ad67e4b052466beec539b3cf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6a4fb80d8be71f418c7540a8933a3fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildTournament/lust_anger/townportal/gt_portal.asset
+Dependencies: []

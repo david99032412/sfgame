@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3964250387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb463722758b4ad6fabd3218a41dea13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1a8cbc7b6c706159133b510506a021c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae5a44678849d5748ab321ce9c190836, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/PortraitSprites/bg/portraitbg_small.asset
+Dependencies: []

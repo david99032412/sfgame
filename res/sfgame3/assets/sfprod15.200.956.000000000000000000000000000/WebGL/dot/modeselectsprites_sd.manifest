@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 500551325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61671305e939037d725f9ec9d129a38d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3802b4391204cc30b595e5be4c032b1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b0db017baac9dc4ead248234b59ddbd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/Mode/DotModeSelectSprites_sd.asset
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/dot/dotmodeselectbg_sd

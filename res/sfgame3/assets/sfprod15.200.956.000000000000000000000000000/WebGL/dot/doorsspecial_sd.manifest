@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2511758914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce3d5cdcbb537b8f3138d89393deab7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: edb6b54c965bcc152326e69cf40042cf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f493e4f73bd45c45a841da2654f6168, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/doors/doorsspecial_sd.asset
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 450665156
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb818a289d627f015527b7887f1b4be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/tutorial_container_buff/tutorial_container_buff01.wav
+Dependencies: []

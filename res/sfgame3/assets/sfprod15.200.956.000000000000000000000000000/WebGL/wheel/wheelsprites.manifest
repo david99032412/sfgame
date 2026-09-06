@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 844833965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83bd2b87a1931e542913452f0594e4c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e78f88274939586f7b6c55e09e68ffae
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18931044c8ab5884d95bd59c09f4e320, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/WheelSprites.asset
+Dependencies: []

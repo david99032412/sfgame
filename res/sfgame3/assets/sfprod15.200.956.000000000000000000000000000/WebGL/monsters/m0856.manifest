@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3478664805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c90864d82127b89ca944bf2d4ad54bad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Pets/Monster/monster856.png
+Dependencies: []

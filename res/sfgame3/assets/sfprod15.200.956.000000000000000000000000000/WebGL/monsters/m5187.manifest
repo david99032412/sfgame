@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1247023995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29a9d17361736e3f71091454cc540f2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/gt/gluttony/monster5187.png
+Dependencies: []

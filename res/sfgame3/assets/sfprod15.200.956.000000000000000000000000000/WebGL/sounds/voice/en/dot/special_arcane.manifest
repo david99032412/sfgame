@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3728670616
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd630bba9c0fc9aeb9c603b02b262196
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/special_arcane/special_arcane01.wav
+Dependencies: []

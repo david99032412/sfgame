@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2712770568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f76ded26257f1157c69edd520ac7fa82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b57731c5c95d4e60c7835de4f4edf24f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7aa05f418e5d7e14aaa4dcb1dde935a4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/wizard/intro/dotintrosprites_sd.asset
+Dependencies: []

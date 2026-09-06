@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 1968047767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd03532a11639d7252c8a07a95403ae6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f820c18a60e389772f768472efca4d5c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51db53697a53f7a479b8570674dae649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b109e9a4794475241ae404001b13d191, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 335d4e4095e448540af612dfdb9a5f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcb0d888302115f40a5309bfd4df0f71, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c985bbd7e1657bf429514c559a836f7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57fa2777941a9b24c8f3913d7dcd5486, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70f727eaf3217644901e3f44a4bfb7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: caa29ef7c1cc90947b03af8acde6e716, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/10.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/03.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/06.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/08.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/09.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/04.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/05.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/02.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/01.prefab
+- Assets/Prefabs/Screens/Underworld/Buildings/lvl09_sd/07.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 172048288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 854847cc21fc4b40e33a28eee63cba48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a71d0e5d8cb204c882a4e92b2a161d6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b74b299d1dbabd8468761b11f1213950, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/UIComponents/NewProgressBars/progressbaroverlay.asset
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2765190639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b632e1b79638fdce8f1ec39dbb1f5163
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/flee/flee_succeeded_female.wav
+- Assets/Sounds/dot/flee/flee_failed_female.wav
+- Assets/Sounds/dot/flee/flee_failed_male.wav
+- Assets/Sounds/dot/flee/flee_succeeded_male.wav
+Dependencies: []

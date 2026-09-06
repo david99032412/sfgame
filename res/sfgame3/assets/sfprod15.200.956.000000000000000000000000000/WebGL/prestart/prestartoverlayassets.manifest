@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 120322133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed5d0b1c1a67d37c59d5fc2a0cd198f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f6864ad863722b2da5f79947db74561
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a09ee21acb55f034b808b12b384a05a9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Prestart/scriptableobjects/prestartoverlayassets.asset
+Dependencies: []

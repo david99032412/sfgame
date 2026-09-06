@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1882993273
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f18a7844870fe60f7a0137952f1651f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/blocked/blocked06.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked12.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked04.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked11.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked01.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked08.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked13.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked02.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked09.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked07.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked03.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked05.wav
+- Assets/Sounds/Voice/de/Dot/blocked/blocked10.wav
+Dependencies: []

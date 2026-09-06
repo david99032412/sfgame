@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1195436899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a84b5b50dbc5976ca3663adad8ae4e0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2a51efc3ae9e89c720f8a6a8923a985
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c79bc8e9fbf7f2b4e8a68996d2869d6e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TavernEventOverlays/summersale_sd.asset
+Dependencies: []

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2166611484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae92076322e6890ee494a09ffde0f570
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a52ad88228e6fc80d5cce8d3dc16ad36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4856497a9faf5b48a1ef2e0e32929f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a1f6dac0158fe64b8ce5f30431dc484, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 49b07baec29150644a84ec845a409d78, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Tavern/Gambling/DiceGame3D.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

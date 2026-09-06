@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3361691663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f7c0bc698af22f8233d311579215630
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Witch/Ingredients/ingredient7.wav
+Dependencies: []

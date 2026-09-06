@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3021156568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9127cf3479b5973b83ccb6470923ee3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/boss/boss02.wav
+- Assets/Sounds/Voice/cs/Dot/boss/boss04.wav
+- Assets/Sounds/Voice/cs/Dot/boss/boss01.wav
+- Assets/Sounds/Voice/cs/Dot/boss/boss03.wav
+Dependencies: []

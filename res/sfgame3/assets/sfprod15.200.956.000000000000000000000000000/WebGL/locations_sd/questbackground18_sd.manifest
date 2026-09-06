@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3963114659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08b3c76a9e3a852ded784e113c43badb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Backgrounds_sd/Questing/location19_sd.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1673844198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d21a4d85daf6e2c77d0d1c3979b0cff1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/MushroomDealer/Background_sd/Halloween/bg_halloween_day.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2523769995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daeeb8742cf7f7cce7ed7fbe07d8a44a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/win/loot_rumble.wav
+Dependencies: []

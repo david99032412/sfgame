@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 594591016
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bed8ecb7a7a29ad8bba661fd9eb019c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/death/death05.wav
+- Assets/Sounds/Voice/de/Dot/death/death06.wav
+- Assets/Sounds/Voice/de/Dot/death/death04.wav
+- Assets/Sounds/Voice/de/Dot/death/death07.wav
+- Assets/Sounds/Voice/de/Dot/death/death01.wav
+- Assets/Sounds/Voice/de/Dot/death/death08.wav
+- Assets/Sounds/Voice/de/Dot/death/death09.wav
+- Assets/Sounds/Voice/de/Dot/death/death03.wav
+- Assets/Sounds/Voice/de/Dot/death/death02.wav
+- Assets/Sounds/Voice/de/Dot/death/death10.wav
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3644060743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 956c72399bbf9062376efec2b9e601b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28507cd45d573bff4f0d30b1e8fcb44e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 749735ae39776064ba63737addc4e309, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Toilet/ToiletCleanSprites_sd.asset
+Dependencies: []

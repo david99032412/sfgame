@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3147428340
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0338642700cf3c33e27a36467c2b208
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/tutorial_door_merchant/tutorial_door_merchant01.wav
+Dependencies: []

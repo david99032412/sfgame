@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2852169458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b4611b51e4ca91c1388735abe88e74c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/DotWizard/intro/intro01.wav
+Dependencies: []

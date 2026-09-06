@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1941535725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eeef612e45cb9eb4058261f0b76939c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/special/special_rainbow.wav
+- Assets/Sounds/dot/special/special_water.wav
+- Assets/Sounds/dot/special/special_hole_drop.wav
+- Assets/Sounds/dot/special/special_narrator_drink.wav
+- Assets/Sounds/dot/special/special_rps_rock.wav
+- Assets/Sounds/dot/special/special_arcane.wav
+- Assets/Sounds/dot/special/special_lava_drop.wav
+- Assets/Sounds/dot/special/special_changing_room_open.wav
+- Assets/Sounds/dot/special/special_rps_scissors.wav
+- Assets/Sounds/dot/special/special_merchant_buy.wav
+- Assets/Sounds/dot/special/special_coffin_open.wav
+- Assets/Sounds/dot/special/special_auctionhouse.wav
+- Assets/Sounds/dot/special/special_rps_paper.wav
+- Assets/Sounds/dot/special/special_merchant_open.wav
+- Assets/Sounds/dot/special/special_life_fountain.wav
+- Assets/Sounds/dot/special/special_monster_lantern_on.wav
+- Assets/Sounds/dot/special/special_monster_lantern_off.wav
+Dependencies: []

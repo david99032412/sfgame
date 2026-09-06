@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1713479127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20b20ae42a62b0dbffc73b3446647116
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/Portraits/special/special131.png
+Dependencies: []

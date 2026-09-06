@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1720170477
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3ef7cde483d0b275717ccc7467bc335
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/AdventCalendar/bg_adventcalendar.png
+Dependencies: []

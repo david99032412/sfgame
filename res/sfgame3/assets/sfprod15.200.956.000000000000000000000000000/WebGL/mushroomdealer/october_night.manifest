@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2521150057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d74762f91aff5ae14d411a704b9bf65c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/MushroomDealer/Background/October/bg_october_night.png
+Dependencies: []

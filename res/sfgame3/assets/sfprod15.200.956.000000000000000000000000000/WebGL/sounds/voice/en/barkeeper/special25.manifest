@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1095839941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a86f45199320468d9bf23d324df6d1e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Barkeeper/special25/barkeeper_text_special25.wav
+Dependencies: []

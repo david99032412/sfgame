@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3848221428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: decf49c6ad91ab8c707838df3c5443db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Jingles/jingle_dungeon.wav
+- Assets/Sounds/Jingles/jingle_oktoberfest.wav
+- Assets/Sounds/Jingles/jingle_birthday.wav
+- Assets/Sounds/Jingles/jingle_event.wav
+- Assets/Sounds/Jingles/jingle_easter.wav
+- Assets/Sounds/Jingles/jingle_halloween.wav
+- Assets/Sounds/Jingles/jingle_xmas.wav
+Dependencies: []

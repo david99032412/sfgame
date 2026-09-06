@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3203545487
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ddd2d047fad0b05bdb02e684a7cfa4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/24-Anime/monster1165.png
+Dependencies: []

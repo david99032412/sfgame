@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 101000525
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fbb49a32bbf2df965fefccd1832367e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2f6a69893a9c9129dacab7ecbaf1b68
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32d29dc7793df4e4e9ad564e9077b801, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Prestart/scriptableobjects/prestartingameassets_sd.asset
+Dependencies: []

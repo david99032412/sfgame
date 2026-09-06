@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1723766575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc0a1e88929274ebd1e3c98e5abbfe1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 054df10382caee8f0e748ac34a45fcaa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1b376d4e863cd74c88971504d216ef6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TownWinterSprites.asset
+Dependencies: []

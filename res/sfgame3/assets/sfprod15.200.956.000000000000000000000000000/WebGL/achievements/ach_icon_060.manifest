@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3020718981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe36454325cc0d0ee439b7b1fea66b23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Album/AchievementIcons/ach_icon_060.png
+Dependencies: []

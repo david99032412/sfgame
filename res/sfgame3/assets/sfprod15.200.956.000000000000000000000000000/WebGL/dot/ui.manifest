@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2380547900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 514a06d96ecb5695cca70668923c2827
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f970d04df3e0a3e64aa53197e3d2d82d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f90e3c00d693cd54fb96d090fc8fed9d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/ui/dotui.asset
+Dependencies: []

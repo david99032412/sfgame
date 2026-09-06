@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 383972194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6728d56a0d596f4155c74f6c73da364d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/misc/scratch_01.wav
+- Assets/Sounds/dot/misc/creaking_01.wav
+- Assets/Sounds/dot/misc/drip_05.wav
+- Assets/Sounds/dot/misc/rustle_03.wav
+- Assets/Sounds/dot/misc/bat_04.wav
+- Assets/Sounds/dot/misc/drip_03.wav
+- Assets/Sounds/dot/misc/knock_01.wav
+- Assets/Sounds/dot/misc/drip_04.wav
+- Assets/Sounds/dot/misc/rustle_02.wav
+- Assets/Sounds/dot/misc/knock_05.wav
+- Assets/Sounds/dot/misc/rustle_01.wav
+- Assets/Sounds/dot/misc/knock_02.wav
+- Assets/Sounds/dot/misc/knock_03.wav
+- Assets/Sounds/dot/misc/bat_02.wav
+- Assets/Sounds/dot/misc/scratch_03.wav
+- Assets/Sounds/dot/misc/torch_on.wav
+- Assets/Sounds/dot/misc/gemoffate_receive.wav
+- Assets/Sounds/dot/misc/bat_01.wav
+- Assets/Sounds/dot/misc/bat_05.wav
+- Assets/Sounds/dot/misc/rustle_05.wav
+- Assets/Sounds/dot/misc/scratch_02.wav
+- Assets/Sounds/dot/misc/rustle_04.wav
+- Assets/Sounds/dot/misc/torch_off.wav
+- Assets/Sounds/dot/misc/knock_04.wav
+- Assets/Sounds/dot/misc/bat_03.wav
+- Assets/Sounds/dot/misc/drip_01.wav
+- Assets/Sounds/dot/misc/trap_disarm.wav
+- Assets/Sounds/dot/misc/drip_02.wav
+Dependencies: []

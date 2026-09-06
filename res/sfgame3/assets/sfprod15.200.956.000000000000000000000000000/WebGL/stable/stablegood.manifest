@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2469983415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17d460e3fb6995e1b3dfe828c496d060
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18c90177d680e89b70f2b99c99af2a0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2854964d56a6e044abf4ced92b312ddf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 335d4e4095e448540af612dfdb9a5f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcd02bbe665fd9b4984f05d7125afa6c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Prefabs/Screens/Stable/StableGoodPrefab.prefab
+Dependencies:
+- C:/Users/Marco Stadler/Unity Projects/SF Game 2021/AssetBundles/WebGL/z_shared/dependencies

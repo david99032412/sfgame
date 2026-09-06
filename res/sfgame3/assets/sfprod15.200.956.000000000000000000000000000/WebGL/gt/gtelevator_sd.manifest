@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 407693587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4ee66593aaa693e3f733f529bf12e93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dea60b1638104ba3246c4f9abda6f380
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8461e7a6623ac8549947eb94203ba19b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildTournament/common/gtelevator_sd.asset
+Dependencies: []

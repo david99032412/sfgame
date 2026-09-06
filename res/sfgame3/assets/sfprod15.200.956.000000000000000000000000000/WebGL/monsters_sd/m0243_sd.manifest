@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1954639867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0807b3ace4c2f148962e9d3264939fe5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/12-13thFloor/monster243.png
+Dependencies: []

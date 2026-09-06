@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 4178994008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0693306cff4b702e7c7cc3742b3721ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d626012d7a03be402670be2c5e363fc4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70f727eaf3217644901e3f44a4bfb7b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Underworld/Overlays/ovl_heart_glow.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0008.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0014.png
+- Assets/Art/Materials/HSVNightMaterial.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0010.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0005.png
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+- Assets/Art/UIComponents/transparentPixel.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0002.png
+- Assets/Art/Materials/Dot/HSVDotSpecialGlow.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0015.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0001.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0015.png
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+- Assets/Art/Materials/Dot/HSVDotWizardWoods.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0001.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0008.png
+- Assets/Art/Materials/Dot/HSVDotTorches.mat
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0005.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0013.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0010.png
+- Assets/Art/Materials/HSVDefaultMaterial.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0008.png
+- Assets/Art/Shaders/DiceShader.shader
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0006.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0010.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0004.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0005.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0013.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0004.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0007.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0003.png
+- Assets/Art/Materials/SoftAdditiveUI.mat
+- Assets/Art/Shaders/HSVDefault.shader
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0009.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0006.png
+- Assets/ScriptableObjects/GlowCurves/DungeonHeartGlowCurve.asset
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0002.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0007.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0015.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0004.png
+- Assets/Art/Materials/WitchFireHSV.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0002.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0014.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0013.png
+- Assets/Art/UIComponents/UIFx/glow.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0003.png
+- Assets/Art/UIComponents/nonTransparentPixel.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0012.png
+- Assets/Art/Shaders/UIExtensions/UISoftAdditive.shader
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0012.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0007.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0014.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0011.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0009.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0006.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0011.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0012.png
+- Assets/Art/Screens/Town/NightOverlays/fire_small/fire_small_0003.png
+- Assets/Art/Materials/DefaultUI.mat
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0011.png
+- Assets/Art/Screens/Town/BuiltIn/blacksmith_fireplace/blacksmith_fireplace_0001.png
+- Assets/Art/Screens/Town/NightOverlays/fire_big/fire_big_0009.png
+Dependencies: []

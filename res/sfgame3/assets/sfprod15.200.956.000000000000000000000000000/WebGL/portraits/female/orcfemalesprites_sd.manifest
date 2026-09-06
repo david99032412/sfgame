@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1615271472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c211ab6f8b4df2d15b0405321edede1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1abcbd65cdf6f90ce6f7a4525177987
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1cf407a0ccfaa6d43a8aa5d9c0c6e082, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.View.Components.HairColorSprites
+Assets:
+- Assets/ScriptableObjects/Sprites/PortraitSprites/Female/OrcFemaleSprites_sd.asset
+Dependencies: []

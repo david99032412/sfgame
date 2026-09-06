@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1787945614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57eb3bac5ebd3b8c9bd199fd6a1e1f3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/boss/birthday/boss_death_5145.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5147.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5144.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5147.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5142.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5141.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5148.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5147.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5143.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5146.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5146.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5143.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5146.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5144.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5148.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5144.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5142.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5145.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5142.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5143.wav
+- Assets/Sounds/dot/boss/birthday/boss_hit_5141.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5145.wav
+- Assets/Sounds/dot/boss/birthday/boss_death_5148.wav
+- Assets/Sounds/dot/boss/birthday/boss_intro_5141.wav
+Dependencies: []

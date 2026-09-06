@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1510016643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a720e1f1abd4a10262c2a3d18e58a81
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfbd5677ed1d2b41e771622c2f2a9575
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fbd5f3523b50704eb7eb75108d82fbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.Model
+  ClassName: PlayaGames.ShakesAndFidget.PlayerModel.ItemIdentifier
+Assets:
+- Assets/ScriptableObjects/Sprites/Items/shieldsMapping.asset
+- Assets/Art/Atlases/Items/Shields.spriteatlas
+Dependencies: []

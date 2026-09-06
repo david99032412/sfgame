@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3493003165
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8a9b34fca84b3de4d87757b5830ede7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Shakes/Tutorial/step20.wav
+Dependencies: []

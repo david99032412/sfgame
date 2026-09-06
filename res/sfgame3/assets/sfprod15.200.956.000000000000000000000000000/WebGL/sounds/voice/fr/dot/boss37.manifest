@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2234713924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b77b6bb17cd071df6229246d327d9e7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/boss37/boss3701.wav
+Dependencies: []

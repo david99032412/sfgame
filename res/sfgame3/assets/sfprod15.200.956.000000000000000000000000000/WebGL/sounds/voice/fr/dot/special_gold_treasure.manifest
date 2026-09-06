@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 772757239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 268a169e6a069d573fdeab2192cef078
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_gold_treasure/special_gold_treasure01.wav
+Dependencies: []

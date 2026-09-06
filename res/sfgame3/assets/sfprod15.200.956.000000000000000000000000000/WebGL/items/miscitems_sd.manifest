@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 866759205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a177e2ff25aa6b134a5ec1e3201cc60a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfbd5677ed1d2b41e771622c2f2a9575
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0fbd5f3523b50704eb7eb75108d82fbf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.Model
+  ClassName: PlayaGames.ShakesAndFidget.PlayerModel.ItemIdentifier
+Assets:
+- Assets/ScriptableObjects/Sprites/Items_sd/miscitemsMapping_sd.asset
+- Assets/Art/Atlases/Items_sd/MiscItems_sd.spriteatlas
+- Assets/Art/Screens/Character/Items_sd/11-Keys/itm11_9_1.png
+Dependencies: []

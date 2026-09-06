@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 616635346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75514b9f2221a4c775643e86cb9f4160
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3162f3e32eac2cbf8fb2c9e8e6a01852
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f74a867fa9574e438f22698f3ffbad5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/SmallAchievementSprites.asset
+Dependencies: []

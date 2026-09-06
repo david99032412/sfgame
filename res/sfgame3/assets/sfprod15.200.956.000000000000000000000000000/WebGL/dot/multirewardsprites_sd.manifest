@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1566999533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73b395605c094ad1948df24eae2b51e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c6a95bcaf60f4b355b1074a198d3a50a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e88f3fd229eb88a4cb26a1b64cc70e00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/MultiRewardScreen/DotMultiRewardSprites_sd.asset
+Dependencies: []

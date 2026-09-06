@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 917928213
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b01cbcf9e88ea9bdd119ce06b1d77525
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c99af7ed71aed3333e8974b4da0f03
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d944477d23896874eb25c29e1e4d99c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/BlacksmithSprites_sd.asset
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3248493288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1294d6401ad4a979d092f4e684884e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f8140815347318250d17f8bf83849fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0de5384e127b95647b8a85ca2fcdf3a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/TowerSprites_sd.asset
+Dependencies: []

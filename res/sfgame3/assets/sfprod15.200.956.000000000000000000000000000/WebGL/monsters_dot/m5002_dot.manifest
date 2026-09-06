@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2084524256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16a0bf6836cf7e7a500ca89c755a0102
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/dot/00-General/monster5002.png
+Dependencies: []

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1301847816
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f86a04455e025b18b48b35d7fe3ba00c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/monster/monster08.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster20.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster01.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster14.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster05.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster21.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster24.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster06.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster12.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster13.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster04.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster07.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster03.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster18.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster19.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster23.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster17.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster22.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster09.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster02.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster10.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster16.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster11.wav
+- Assets/Sounds/Voice/de/Dot/monster/monster15.wav
+Dependencies: []

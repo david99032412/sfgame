@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 22184516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e61ca151fefe4a282f389f33edf7443d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/Portraits/special/special87.png
+Dependencies: []

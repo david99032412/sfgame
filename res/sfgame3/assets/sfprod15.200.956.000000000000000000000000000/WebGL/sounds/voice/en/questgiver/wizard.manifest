@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1029157113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2072ae758eccd653f83c486b68992cbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic02.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic01.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic04.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic05.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/morning01.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic06.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic03.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic09.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic07.wav
+- Assets/Sounds/Voice/en/Questgiver/Wizard/generic08.wav
+Dependencies: []

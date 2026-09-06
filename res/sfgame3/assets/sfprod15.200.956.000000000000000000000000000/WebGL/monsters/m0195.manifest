@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3069663675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e9b80db795775ee4b4774d75b17a545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/GuildRaid/monster195.png
+Dependencies: []

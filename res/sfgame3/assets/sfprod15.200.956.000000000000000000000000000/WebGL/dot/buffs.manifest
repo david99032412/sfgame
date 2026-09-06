@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1645068178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bab17ed042b109da87ff9111a02c0c50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 56b057560fa7cc6d0fd84c582445f8dc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b86c9233f8078ec46b9ea097faaf0ecf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/buffs/buffs.asset
+Dependencies: []

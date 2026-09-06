@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1270723591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f78852164c39ba391bbb3e12905e3e5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/boss8/boss801.wav
+Dependencies: []

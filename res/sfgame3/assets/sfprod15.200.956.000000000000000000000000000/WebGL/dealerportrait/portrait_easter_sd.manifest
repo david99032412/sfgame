@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 652382423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b256b9911de61c3ca8b96f7d28689f53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/CheckoutPortrait/Easter/dealerportrait_easter_sd.png
+Dependencies: []

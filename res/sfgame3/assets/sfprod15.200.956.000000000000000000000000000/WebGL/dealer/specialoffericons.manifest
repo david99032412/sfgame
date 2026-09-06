@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2703670257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41952f31640aeec335293be64ee61f8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 64043996bae7ec7f03d11c9bf9e5211f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eccaffb124b9c542a2c6b8e37493bd1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Dealer/specialoffer/specialoffericons.asset
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1318505354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd67307ce62fc979f3325fd55c2d73fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_souls/special_souls01.wav
+Dependencies: []

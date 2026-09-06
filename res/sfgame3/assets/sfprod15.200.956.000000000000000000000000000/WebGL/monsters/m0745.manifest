@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1803451864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f0cf84590f1472c472e5930cc41e0f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/Fortress/monster745.png
+Dependencies: []

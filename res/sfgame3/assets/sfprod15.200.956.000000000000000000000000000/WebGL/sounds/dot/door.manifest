@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3199489407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dac0fb21ed4714f0899c9105117e2705
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/door/door_unlock_sacrifice.wav
+- Assets/Sounds/dot/door/door_unlock_doublelocked.wav
+- Assets/Sounds/dot/door/door_blocked.wav
+- Assets/Sounds/dot/door/door_locked.wav
+- Assets/Sounds/dot/door/door_walk.wav
+- Assets/Sounds/dot/door/door_open_wood.wav
+- Assets/Sounds/dot/door/door_unlock.wav
+- Assets/Sounds/dot/door/door_open_metal.wav
+- Assets/Sounds/dot/door/door_open_stone.wav
+Dependencies: []

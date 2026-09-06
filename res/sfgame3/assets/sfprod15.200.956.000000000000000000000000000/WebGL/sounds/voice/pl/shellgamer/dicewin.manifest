@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3805436864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 974482586407ae3561e3cbfbaaf62e51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/ShellGamer/Dicewin/dicewin01.wav
+Dependencies: []

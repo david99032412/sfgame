@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 929576350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b866c8b286627373edba031ca19b8f66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/CheckoutPortrait/Anniversary/dealerportrait_anniversary.png
+Dependencies: []

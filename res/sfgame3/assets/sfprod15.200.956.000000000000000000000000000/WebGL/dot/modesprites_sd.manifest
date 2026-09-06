@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2088175882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31cf5b190f96867d1b75689f25476766
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 067ab331969e2329004077304a928eeb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fb990d4696f9c945b41456844a1cf7a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/Mode/DotModeSprites_sd.asset
+Dependencies: []

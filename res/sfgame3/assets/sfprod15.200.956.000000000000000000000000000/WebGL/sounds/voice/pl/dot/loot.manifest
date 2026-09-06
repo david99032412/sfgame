@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1311048243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a04b25799c85a6e0894980cfa1a1d39c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/loot/loot02.wav
+- Assets/Sounds/Voice/pl/Dot/loot/loot01.wav
+Dependencies: []

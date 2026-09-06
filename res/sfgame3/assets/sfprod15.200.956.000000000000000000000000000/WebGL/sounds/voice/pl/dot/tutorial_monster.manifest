@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1187565767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 776e1509153754cf1fe8ba3b92379a78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/tutorial_monster/tutorial_monster01.wav
+Dependencies: []

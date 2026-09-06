@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2652806145
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52908eef8d14d8e39c3786e2fd09747c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c526bbc8e800341fcdd28e25eba469d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb546b27f20740549bc25ed667993e96, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildTournament/common/gtdailyreward_sd.asset
+Dependencies: []

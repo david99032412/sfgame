@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2730845008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0417fd41390ce2847ee82600ac73c2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/IAP/CheckoutPortrait/Newyear/dealerportrait_newyear_sd.png
+Dependencies: []

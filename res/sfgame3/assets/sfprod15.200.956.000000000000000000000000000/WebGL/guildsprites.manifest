@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2235808106
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5d4c47522b0f9a7d0f5f16651484b2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf8de0b65d7f38ef11dc03ff84194a3d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ebe398c8d8270b4ea6e2ff56df054a8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/GuildSprites.asset
+Dependencies: []

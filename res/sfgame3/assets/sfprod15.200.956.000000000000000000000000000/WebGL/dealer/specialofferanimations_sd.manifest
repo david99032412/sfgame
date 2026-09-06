@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4234002991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f629ee57962419d2ec825167c530713d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f7d1efaa39b7d2cdf8806e23b8da15ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7461734b00f6f954b8817f38c990fbf1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/Dealer/specialoffer/specialofferanimations_sd.asset
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 100304787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bbab1f0b48e95a01f5291d9e869b9c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Shakes/Tutorial/step19.wav
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3352307463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36168e168e19252fa5aaa551ed76c820
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_life_fountain/special_life_fountain01.wav
+Dependencies: []

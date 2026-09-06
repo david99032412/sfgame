@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3551389709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9804cacbb1ac628f4f2c83fdfbd3bf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a927e481ad67e4b052466beec539b3cf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6a4fb80d8be71f418c7540a8933a3fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/gloria/townportal/gloria_portal_sd.asset
+Dependencies: []

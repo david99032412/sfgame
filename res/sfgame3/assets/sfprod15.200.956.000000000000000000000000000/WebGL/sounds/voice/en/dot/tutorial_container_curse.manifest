@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2613563052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f4012b9c229fd5831e72c9501bc1306
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_container_curse/tutorial_container_curse01.wav
+Dependencies: []

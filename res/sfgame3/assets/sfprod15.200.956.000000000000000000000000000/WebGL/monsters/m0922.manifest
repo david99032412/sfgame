@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4067818853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c67dcd8fbea6430cff799adcc3ca18a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/Underworld/monster922.png
+Dependencies: []

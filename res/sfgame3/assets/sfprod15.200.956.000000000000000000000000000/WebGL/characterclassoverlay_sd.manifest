@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2152515976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96d6a02228b13275b88cfbd262188ded
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c92d46a57c5cd06fe8936cd1313d707a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 378cd1e39d3b3bc4d8740dca5da3bab3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/PortraitSprites/CharacterClassOverlay_sd.asset
+- Assets/Art/Screens/Character/ClassSpecials/class_overlays_sd.png
+Dependencies: []

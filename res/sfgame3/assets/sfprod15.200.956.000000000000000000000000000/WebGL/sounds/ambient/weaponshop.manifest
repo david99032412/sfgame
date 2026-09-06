@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 439264215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c320f08ea2c57168f14de775c35455a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/weaponshop.wav
+Dependencies: []

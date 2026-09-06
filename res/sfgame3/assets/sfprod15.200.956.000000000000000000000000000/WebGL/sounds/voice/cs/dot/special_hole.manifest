@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2867892128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 717d8fdfd19cee37244ee3849502ffab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Dot/special_hole/special_hole01.wav
+Dependencies: []

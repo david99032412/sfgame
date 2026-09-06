@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 947927271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ee87e3cd240d63b6a35e707829f2b0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic04.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/evening01.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic02.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic10.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic13.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic12.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic14.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic08.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic07.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic03.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic11.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic01.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic06.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic05.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/morning01.wav
+- Assets/Sounds/Voice/de/Questgiver/Fedget/generic09.wav
+Dependencies: []

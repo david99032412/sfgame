@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1442083622
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a25fde87e8c23e307dfc68f082d262b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_door_curse/tutorial_door_curse01.wav
+Dependencies: []

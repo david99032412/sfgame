@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4092886206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 093fca7cd1ae35d64afe0c1cdefff125
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_lantern_monster/special_lantern_monster01.wav
+Dependencies: []

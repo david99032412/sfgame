@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3920634602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f4268f65fe6adcdb95dfb4d56e4b092
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1caf3e721c2dd43cac5885a4e2305e82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b61af53623c68f8439e8ce5ba00121f2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/QuestgiverSprites/conan.asset
+Dependencies: []

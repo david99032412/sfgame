@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 1125195836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66bb29767614b1e6b3763ce8ce5fa879
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8def693cba337d8185b4b09a5d208ba4
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bc4ac9ff9cfa75488dba2fd519fa239, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9869a719eb592a54aadba93e08d404f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac09151155ffb7840823abac0996d51b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56713229fdf261c4fb3e70cc3980e7c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fb5513a0d8230640a1cd4c2c8f94821, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.DotAmbientSound
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.DotBossOverviewInfo
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.DotMonsterInfo
+- AssemblyName: ShakesAndFidget.View
+  ClassName: PlayaGames.ShakesAndFidget.ScriptableObjects.DotVoiceInfo
+Assets:
+- Assets/ScriptableObjects/Dot/dot_data_birthday.asset
+Dependencies: []

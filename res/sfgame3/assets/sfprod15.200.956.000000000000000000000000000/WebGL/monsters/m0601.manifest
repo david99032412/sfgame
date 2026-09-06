@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3784662263
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d760c1411cfa77569133da23e2da871
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/13-Easteros/monster601.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3386555237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56437413f8825ff3c151ef4859fa6ecb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 180e1d631e58d092a4bb5cc9cb31b551
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f95fd538ebe1ed4ab298b337b9ca715, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: ShakesAndFidget.Model
+  ClassName: PlayaGames.ShakesAndFidget.Common.Models.ProviderIconEntry
+Assets:
+- Assets/Art/Screens/IAP/Provider/GGS/provider_mapping.asset
+Dependencies: []

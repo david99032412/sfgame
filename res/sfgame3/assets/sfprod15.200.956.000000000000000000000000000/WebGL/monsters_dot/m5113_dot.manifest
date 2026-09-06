@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1118193051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ccc3ae66fa432c0f8597e1d3d28186f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/dot/04-Bd/monster5113.png
+Dependencies: []

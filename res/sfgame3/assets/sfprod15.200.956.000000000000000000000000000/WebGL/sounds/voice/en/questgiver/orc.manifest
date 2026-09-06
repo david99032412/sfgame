@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2516229091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 667c2d3047dcb9f58db59c01854db17c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Questgiver/Orc/generic02.wav
+- Assets/Sounds/Voice/en/Questgiver/Orc/generic03.wav
+- Assets/Sounds/Voice/en/Questgiver/Orc/generic04.wav
+- Assets/Sounds/Voice/en/Questgiver/Orc/generic01.wav
+- Assets/Sounds/Voice/en/Questgiver/Orc/generic05.wav
+Dependencies: []

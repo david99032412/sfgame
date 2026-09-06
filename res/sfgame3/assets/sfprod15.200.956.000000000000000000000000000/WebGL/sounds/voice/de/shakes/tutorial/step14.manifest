@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3187442052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cfc0fffd0c0e731121b6940bfb5e627
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Shakes/Tutorial/step14.wav
+Dependencies: []

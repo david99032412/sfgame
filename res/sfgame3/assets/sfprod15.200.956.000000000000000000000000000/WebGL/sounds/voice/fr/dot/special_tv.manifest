@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 204098988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c94e9dd754127a920ce66183974baa7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_tv/special_tv01.wav
+Dependencies: []

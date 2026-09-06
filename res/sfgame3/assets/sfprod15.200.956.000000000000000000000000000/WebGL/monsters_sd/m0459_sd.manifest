@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 737996385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1d9d2362d496f5737f092ab0e5f5be9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/14-Tower/monster459.png
+Dependencies: []

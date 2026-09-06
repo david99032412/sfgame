@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2894502510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d432b13b81f93d8696f2f45e5723ea24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/special_balrog/special_balrog01.wav
+Dependencies: []

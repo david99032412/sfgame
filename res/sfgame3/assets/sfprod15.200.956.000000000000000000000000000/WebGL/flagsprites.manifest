@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1110529257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41d9bda7b55aa6a12b87f674138c455a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1553009d79b444ecded8305b1bbef5c6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 005b2e063891dd74bae0a42a5fdfaf69, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/FlagSprites.asset
+Dependencies: []

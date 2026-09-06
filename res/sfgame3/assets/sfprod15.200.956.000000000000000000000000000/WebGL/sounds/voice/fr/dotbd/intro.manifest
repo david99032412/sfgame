@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3804871647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc03769eccdee7fbee5ec0c3d6e952ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/DotBD/intro/intro01.wav
+Dependencies: []

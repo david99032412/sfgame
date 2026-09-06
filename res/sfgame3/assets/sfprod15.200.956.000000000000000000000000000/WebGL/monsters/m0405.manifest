@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1540830157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f9971738b68220acd0d81c553600a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/14-Tower/monster405.png
+Dependencies: []

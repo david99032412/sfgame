@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2378010811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae299054a2e53bc053e4f2e070b94f20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/Portraits/special/special65.png
+Dependencies: []

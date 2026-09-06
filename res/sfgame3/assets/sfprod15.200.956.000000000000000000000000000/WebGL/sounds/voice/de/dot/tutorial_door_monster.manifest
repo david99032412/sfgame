@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1597741968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e56aeb7b60385edc6b60ba307feb34b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/tutorial_door_monster/tutorial_door_monster01.wav
+Dependencies: []

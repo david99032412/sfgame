@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3456807025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78de7b4c40aa293da65a2c31404cbb27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/Dot/tutorial_shop/tutorial_shop01.wav
+Dependencies: []

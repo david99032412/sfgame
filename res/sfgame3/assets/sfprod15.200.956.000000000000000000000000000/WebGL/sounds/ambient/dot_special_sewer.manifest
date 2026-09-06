@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2939610608
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b71d083291c96b0a403cc01bf5d5f0f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Ambient/dot_special_sewer.wav
+Dependencies: []

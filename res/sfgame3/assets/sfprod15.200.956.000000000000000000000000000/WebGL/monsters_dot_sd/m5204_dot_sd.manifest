@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1901766395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5087d1a06b162020d7445150a90a410
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/dot/02-Gloria/monster5204.png
+Dependencies: []

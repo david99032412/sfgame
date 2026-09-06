@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2439891301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28b9e7aec0ae93ecb69c22013d480c05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic05.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic06.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic01.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic02.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic03.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/morning01.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic07.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/generic04.wav
+- Assets/Sounds/Voice/pl/ShellGamer/Greeting/evening01.wav
+Dependencies: []

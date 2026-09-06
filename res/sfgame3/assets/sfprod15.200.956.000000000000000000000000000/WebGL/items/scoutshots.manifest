@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 2793841012
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b292438239c345d95ce12298d0e0be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_10_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_1_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_6_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_9_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_53.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_1_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_2_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_59.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_7_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_50.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_9_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_5_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_6_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_8_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_1_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_8_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_100.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_9_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_3_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_6_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_54.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_102.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_3_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_65.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_10_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_61.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_103.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_51.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_3_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_4_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_6_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_4_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_63.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_5_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_8_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_7_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_2_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_10_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_60.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_68.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_9_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_10_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_4_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_2_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_8_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_1_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_7_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_5_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_58.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_101.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_52.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_62.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_3_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_64.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_57.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_9_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_66.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_67.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_2_5.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_5_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_8_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_55.png
+- Assets/Art/Atlases/Items/ScoutShots.spriteatlas
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_3_3.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_56.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_6_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_7_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_7_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_1_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_2_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_10_1.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_4_2.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_5_4.png
+- Assets/Art/Screens/Character/Items/ScoutShots/shot_3_4_3.png
+Dependencies: []

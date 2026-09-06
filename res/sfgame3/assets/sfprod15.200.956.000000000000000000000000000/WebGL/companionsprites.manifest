@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1608715138
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d7df5113c3d47376a9cf25225aed2ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 952232e3376ba157b2b871460e20446f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36e4c1a26af497243ac8f2cf237e9d5e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/CompanionSprites.asset
+Dependencies: []

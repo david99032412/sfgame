@@ -1,4 +1,6 @@
 <?php
+ob_start();
+header('Access-Control-Allow-Origin: *');
 // Settings file
 include 'settings.php';
 
@@ -30,14 +32,18 @@ date_default_timezone_set($timezone);
 
 $ip = Misc::getClientIp();
 
-if(!isset($_GET['req']))
-	exit("&Error:wrong request");
+$rawPost = file_get_contents('php://input');
+$requestPayload = '';
+if (!empty($rawPost) && strpos($rawPost, 'req=') === 0) { $requestPayload = urldecode(substr($rawPost, 4)); }
+elseif (!empty($rawPost)) { $requestPayload = $rawPost; }
+else { $requestPayload = $_POST['req'] ?? $_GET['req'] ?? ''; }
 
-$req = substr( $_GET['req'], 16);
+if(empty($requestPayload)) exit("&Error:wrong request");
 
+$req = substr($requestPayload, 16);
 $key = '[_/$VV&*Qg&)r?~g';
-$iv = 'jXT#/vz]3]5X7Jl\\';
-$keyId = substr( $_GET['req'], 0, 16);
+$iv = 'jXT#/vz]3]5X7Jl\';
+$keyId = substr($requestPayload, 0, 16);
 if($keyId == "0-0K36aS2567C735")
 	$key = "5O4ddy4KZLs41n6W";
 else if($keyId != "0-00000000000000")
@@ -4767,5 +4773,6 @@ $pD = new Pets();
 	
 }
 
-echo join("&", $ret);
+ob_clean();
+echo join(\"&\", $ret);
 ?>

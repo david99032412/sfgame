@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3920122058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6dbc454f522d411b98893f87405c156b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/25-GiantMonsters/monster1178.png
+Dependencies: []

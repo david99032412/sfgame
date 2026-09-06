@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1236967037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa8ddc756febd6e02634fc8709b52234
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/DotTreat/intro/intro01.wav
+Dependencies: []

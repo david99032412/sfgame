@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2979981617
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1db050019aee7145d39f8287b0c8bec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/dot/01-Diablo/monster5183.png
+Dependencies: []

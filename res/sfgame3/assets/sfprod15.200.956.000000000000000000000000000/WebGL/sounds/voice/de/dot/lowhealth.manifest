@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2382546660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e224f6c10eb0c75c75db97bb80f4467a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth11.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth02.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth18.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth08.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth10.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth03.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth05.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth01.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth06.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth12.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth13.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth09.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth15.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth17.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth16.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth09_alt.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth07.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth14.wav
+- Assets/Sounds/Voice/de/Dot/lowhealth/lowhealth04.wav
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3724322940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cdbba5f13d1686e659faed86f7136ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/boss/all/boss_laugh.wav
+- Assets/Sounds/dot/boss/all/dot_bossfight_win.wav
+- Assets/Sounds/dot/boss/all/dot_bossfight_lost.wav
+Dependencies: []

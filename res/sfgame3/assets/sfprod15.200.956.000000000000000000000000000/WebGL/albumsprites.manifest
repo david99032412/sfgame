@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2693352783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86577ef806b400a6fa472813d2d320d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 432ae314b665667c17b1cf6ac860c355
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c55256ec137d7614288dc7258f498f0a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/AlbumSprites.asset
+Dependencies: []

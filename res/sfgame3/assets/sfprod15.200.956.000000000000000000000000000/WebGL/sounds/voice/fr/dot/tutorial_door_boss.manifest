@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1023016889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cef26013b87bf9ea41f0ee71468c80b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/tutorial_door_boss/tutorial_door_boss01.wav
+Dependencies: []

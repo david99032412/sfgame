@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3381856808
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30ed994718377b2c8bdbe8d3e3ea4e57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/17-YouTuber/monster1332.png
+Dependencies: []

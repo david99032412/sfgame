@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 26808131
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a152425a3d02ac518ad9875bf6888d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/gt/fraud/monster6041.png
+Dependencies: []

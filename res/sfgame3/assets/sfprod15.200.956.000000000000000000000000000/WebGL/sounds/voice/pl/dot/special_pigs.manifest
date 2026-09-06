@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4224958346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20f60247124e19a19aceb24456f46056
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/special_pigs/special_pigs01.wav
+Dependencies: []

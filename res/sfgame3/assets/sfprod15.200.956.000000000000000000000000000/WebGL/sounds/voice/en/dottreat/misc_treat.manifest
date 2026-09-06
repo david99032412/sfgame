@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1369010136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71817a6d02dd5382a0ab00acb5247174
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat07.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat05.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat06.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat02.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat03.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat01.wav
+- Assets/Sounds/Voice/en/DotTreat/misc_treat/misc_treat04.wav
+Dependencies: []

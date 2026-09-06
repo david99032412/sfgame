@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2563374730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea75f3da38179dfb29d82f463a46d20c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/tutorial_door_locked_epic/tutorial_door_locked_epic01.wav
+Dependencies: []

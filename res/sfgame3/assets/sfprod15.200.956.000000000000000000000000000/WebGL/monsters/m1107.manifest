@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3209758439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2ef52f9dbe1fb9867ea868776b7d976
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/15-Academy/monster1107.png
+Dependencies: []

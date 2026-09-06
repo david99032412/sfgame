@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3097182894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0336303862d79859ab64f4f7b2dbc206
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Barkeeper/depleted/depleted04.wav
+- Assets/Sounds/Voice/de/Barkeeper/depleted/depleted02.wav
+- Assets/Sounds/Voice/de/Barkeeper/depleted/depleted03.wav
+- Assets/Sounds/Voice/de/Barkeeper/depleted/depleted01.wav
+Dependencies: []

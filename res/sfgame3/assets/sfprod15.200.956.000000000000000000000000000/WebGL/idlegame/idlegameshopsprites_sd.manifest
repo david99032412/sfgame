@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2448752300
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f32b64b28aa93d2e08807c1ad823d884
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c569295244a56abb208217c57c35aef5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4accf7d3be5e95b4db75497c7eb13255, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/IdleGame/IdleGameShopSprites_sd.asset
+Dependencies: []

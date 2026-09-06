@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2632743903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee27a35d84143056beb19e0ef89cd47c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/14-Tower/monster499.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2297723286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2213577e025759ee6d336faa57ece9b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic02.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic04.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic08.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic09.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic01.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic06.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic03.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic05.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/morning01.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/evening01.wav
+- Assets/Sounds/Voice/de/Wheel/Greeting/generic07.wav
+Dependencies: []

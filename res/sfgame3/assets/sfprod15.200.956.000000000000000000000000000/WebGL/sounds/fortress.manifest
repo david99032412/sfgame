@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4106929550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e10509ebb6cdf1ca9d82d6d330c1f4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Fortress/harvest_stone.mp3
+- Assets/Sounds/Fortress/harvest_gem_start.mp3
+- Assets/Sounds/Fortress/harvest_wood.mp3
+- Assets/Sounds/Fortress/harvest_exp.mp3
+- Assets/Sounds/Fortress/harvest_gem_found.mp3
+Dependencies: []

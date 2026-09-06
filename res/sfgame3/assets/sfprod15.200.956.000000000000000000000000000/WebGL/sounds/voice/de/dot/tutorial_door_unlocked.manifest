@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 296390552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31959dc1816b598adb41c9c08dfe2166
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/tutorial_door_unlocked/tutorial_door_unlocked01.wav
+Dependencies: []

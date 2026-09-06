@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3163268380
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50564cba9cde2e82878ba5689ce429aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/dot/boss/gloria/boss_intro_5229.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5229.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5228.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5227.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5200.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5199.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5200.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5226.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5198.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5226.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5228.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5226.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5198.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5199.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5229.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5199.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5228.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5197.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5197.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5198.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5200.wav
+- Assets/Sounds/dot/boss/gloria/boss_death_5227.wav
+- Assets/Sounds/dot/boss/gloria/boss_intro_5197.wav
+- Assets/Sounds/dot/boss/gloria/boss_hit_5227.wav
+Dependencies: []

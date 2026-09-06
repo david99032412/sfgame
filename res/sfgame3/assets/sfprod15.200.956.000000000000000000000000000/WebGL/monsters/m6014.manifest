@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4279296977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8221372fa87046d483b86627c4205ea8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster/gt/lust/monster6014.png
+Dependencies: []

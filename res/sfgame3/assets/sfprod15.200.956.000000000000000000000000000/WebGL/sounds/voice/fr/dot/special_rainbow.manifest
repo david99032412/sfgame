@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2156153315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 187be749d0bfa226f7252f5ea67d22c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/fr/Dot/special_rainbow/special_rainbow01.wav
+Dependencies: []

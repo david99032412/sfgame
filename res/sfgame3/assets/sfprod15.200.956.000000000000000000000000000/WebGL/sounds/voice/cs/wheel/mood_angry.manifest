@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4220055360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a6d68892dfe94f2f4049b8175be8ef7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/cs/Wheel/Mood_Angry/mood_angry03.wav
+- Assets/Sounds/Voice/cs/Wheel/Mood_Angry/mood_angry01.wav
+- Assets/Sounds/Voice/cs/Wheel/Mood_Angry/mood_angry02.wav
+Dependencies: []

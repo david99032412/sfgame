@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4019855027
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 90db39e4da9faad0b459dc2d3cc2128e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Fight/Monster_sd/16-Ring/monster1204.png
+Dependencies: []

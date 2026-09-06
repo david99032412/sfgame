@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3338008713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 039f86272c5b27b762e09167abd20c91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eae31cdd8b5527e63b019106b38b5b87
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcf898ddf51b34c49ace8e00314b20f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/AdventCalendarSprites_sd.asset
+Dependencies: []

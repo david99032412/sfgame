@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3148136124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee53a27804877fdfe3673030fc8baf2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/de/Dot/special_shop/special_shop01.wav
+Dependencies: []

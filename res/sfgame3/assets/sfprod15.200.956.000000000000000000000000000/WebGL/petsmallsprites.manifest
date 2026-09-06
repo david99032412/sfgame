@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 258512782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c393f9e864c46b82fe0ab5c2a16180b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: faa4e5a72fee4dfb10aa7c54232b42b8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3260e9d9e5d0360458d89125d2451686, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Screens/Pets/MonsterSmall/monster815.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster810.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster895.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster821.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster881.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster812.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster827.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster822.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster826.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster848.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster836.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster832.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster863.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster884.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster844.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster849.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster807.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster802.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster897.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster806.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster887.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster875.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster814.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster870.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster861.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster838.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster831.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster808.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster825.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster803.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster833.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster883.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster860.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster857.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster898.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster851.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster859.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster879.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster885.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster886.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster830.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster854.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster872.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster891.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster865.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster823.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster801.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster869.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster845.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster889.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster818.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster868.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster842.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster853.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster817.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster816.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster896.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster858.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster828.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster855.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster805.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster871.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster841.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster837.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster888.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster894.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster835.png
+- Assets/ScriptableObjects/Sprites/PetSmallSprites.asset
+- Assets/Art/Screens/Pets/MonsterSmall/monster890.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster834.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster829.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster846.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster820.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster811.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster899.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster867.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster813.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster876.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster877.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster862.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster800.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster824.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster892.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster856.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster809.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster878.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster882.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster864.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster819.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster893.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster804.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster852.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster850.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster840.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster873.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster839.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster874.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster847.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster866.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster880.png
+- Assets/Art/Screens/Pets/MonsterSmall/monster843.png
+Dependencies: []

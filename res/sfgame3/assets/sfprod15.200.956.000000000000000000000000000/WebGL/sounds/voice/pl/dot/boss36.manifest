@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1703180068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0c8f04a4ba1e190e0dcd589cdd24ed7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sounds/Voice/pl/Dot/boss36/boss3601.wav
+Dependencies: []

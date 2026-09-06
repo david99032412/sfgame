@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2232568877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07d1dc31c40aadfa275b0ec5dc21d45d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 382ef9a0fc60bd369008d1fae8e38b20
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a27705c2535871e469ec7df6ff760a3d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScriptableObjects/Sprites/dot/common/Mode/DotModeSelectPortraitSprites.asset
+Dependencies: []
