@@ -42,7 +42,7 @@ if(empty($requestPayload)) exit("&Error:wrong request");
 
 $req = substr($requestPayload, 16);
 $key = '[_/$VV&*Qg&)r?~g';
-$iv = 'jXT#/vz]3]5X7Jl\';
+$iv = 'jXT#/vz]3]5X7Jl\\';
 $keyId = substr($requestPayload, 0, 16);
 if($keyId == "0-0K36aS2567C735")
 	$key = "5O4ddy4KZLs41n6W";
@@ -4774,5 +4774,5 @@ $pD = new Pets();
 }
 
 ob_clean();
-echo join(\"&\", $ret);
+echo join("&", $ret);
 ?>
