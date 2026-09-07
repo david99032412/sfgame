@@ -8,7 +8,7 @@
 		"language_version" => 1,
 		"language_path" => "https://{$clientWeb}/res/sfgame3/lang/",
 		"allow_world_selection" => true,
-		"resource_directory" => "https://{$clientWeb}/res/sfgame3",
+		"resource_directory" => "http://{$clientWeb}/res/sfgame3",
 		"language_code" => "{$defLang}",
 		"link_support" => "", #"https://sfgame.net/support/?playerid=%playerid%&serverid=%serverid%&lang=%language%",
 		"link_forum" => "", #"https://s1.sfgame.de/link.php?game_id=1&lang=%language%&type=forum",
